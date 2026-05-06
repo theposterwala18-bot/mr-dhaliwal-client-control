@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "manifest_type": "version_manifest",
+    "generated_at": "2026-05-06T15:55:23Z",
+    "latest_version": "1.0.0",
+    "minimum_version": "1.0.0",
+    "download_url": "https://github.com/fiverrteam18/mrdhaliwal-automation/releases/latest",
+    "force_update": false,
+    "message": "Latest client package ready aa."
+  },
+  "signature": "89KBgr1lSXRgk/hoU3WG+ceojeuZU5EQ4Cm3gJUw5O+H5RmENTMA/PAB36Ofy7inbOfipieHHu4TKT6UqeloCw=="
+}
