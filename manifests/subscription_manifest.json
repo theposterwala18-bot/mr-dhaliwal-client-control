@@ -1,13 +1,13 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-06T15:55:23Z",
+    "generated_at": "2026-05-06T16:47:58Z",
     "client_count": 2,
     "clients": {
       "c0597ad8d1352882fea5f584813368ada2ecc4e86846d30a602b83e4ac89902c": {
         "erp_lookup_key": "c0597ad8d1352882fea5f584813368ada2ecc4e86846d30a602b83e4ac89902c",
         "client_name": "Sample Client 1",
-        "device_hash": "7baec53fb3399afdda433452b37c5aef8a0c368dc4844da274482e65559b63cf",
+        "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -38,5 +38,5 @@
       }
     }
   },
-  "signature": "IxmquFU4cWrbEtxHRvwRT/3HFZWNNeXRD6ncTPrsQ/fDtUgtLAJddKVgv15qSxZIyAQWhf3buo0QMDNS07H0CQ=="
+  "signature": "goBB7OPJBa8jZP+97nYZxMhVYWhMreeYfvtML1yOtDx7JPViepR/g9wD1Ca6mA4945FDUE2MIfR+FL2Yb/ayAw=="
 }
