@@ -1,12 +1,14 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-06T17:18:59Z",
-    "client_count": 2,
+    "generated_at": "2026-05-07T05:09:54Z",
+    "client_count": 1,
     "clients": {
       "c0597ad8d1352882fea5f584813368ada2ecc4e86846d30a602b83e4ac89902c": {
+        "sr_no": "1",
+        "mobile_no": "9815036664",
         "erp_lookup_key": "c0597ad8d1352882fea5f584813368ada2ecc4e86846d30a602b83e4ac89902c",
-        "client_name": "Sample Client 1",
+        "client_name": "Primary Client",
         "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
         "allowed_ip": "",
         "status": "paid",
@@ -18,25 +20,9 @@
         "force_update": false,
         "allowed_version": "1.0.0",
         "blocked_reason": "",
-        "notes": "Full active sample"
-      },
-      "342d9963185b0158edd09c5f5efb6d642fa40d075cc06c78f8d9eb1f5d659d3f": {
-        "erp_lookup_key": "342d9963185b0158edd09c5f5efb6d642fa40d075cc06c78f8d9eb1f5d659d3f",
-        "client_name": "Sample Client 2",
-        "device_hash": "caa56adb764533e0cbd34e99101f8bf99bdefc6579031bd3e47cd744ab273af4",
-        "allowed_ip": "",
-        "status": "demo",
-        "plan_type": "demo",
-        "valid_from": "2026-05-06T00:00:00Z",
-        "expires_at": "2026-05-06T23:59:59Z",
-        "amount_paid": 0.0,
-        "balance_due": 0.0,
-        "force_update": false,
-        "allowed_version": "1.0.0",
-        "blocked_reason": "",
-        "notes": "One-day demo sample"
+        "notes": "Primary active client"
       }
     }
   },
-  "signature": "Huj5drV+chovwJq2p2v3W4bUN1Cludr4l4E0uf8LuFvRdg/+l4LmmSyPHwxw7b2+YfIp/slxSWyPCZhc02/lDw=="
+  "signature": "NF6Tncp9BOmlryePiblupwfxJAxxGhCnjfIGU5DiBxeEqu/KyASqFaNqfnwy+mTkYcfAnoZrALkp07bSyISmAw=="
 }
