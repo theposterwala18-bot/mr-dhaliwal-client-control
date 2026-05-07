@@ -1,12 +1,12 @@
 {
   "payload": {
     "manifest_type": "version_manifest",
-    "generated_at": "2026-05-06T16:47:58Z",
+    "generated_at": "2026-05-06T17:18:59Z",
     "latest_version": "1.0.0",
     "minimum_version": "1.0.0",
-    "download_url": "https://github.com/fiverrteam18/mrdhaliwal-automation/releases/latest",
+    "download_url": "https://github.com/theposterwala18-bot/mr-dhaliwal-client-control/releases/latest",
     "force_update": false,
     "message": "Latest client package ready aa."
   },
-  "signature": "eMJiJ+dT3QmhUyOFu/NmGDjyLI+Q0wWaR6q7H+tloRjpsMtkaOyctvSKqoeXKqUCCyPW6tJSNeuFeYIonu73Ag=="
+  "signature": "gJeTD2+97QtNLRGIy/yy+FbIuXYLMfM7ue1ADnKfrpYXhYToqYaxFShZJ8GHY8TjSBh0b+62vRzlWHK5dqs+AA=="
 }

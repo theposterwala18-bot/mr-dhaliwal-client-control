@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-06T16:47:58Z",
+    "generated_at": "2026-05-06T17:18:59Z",
     "client_count": 2,
     "clients": {
       "c0597ad8d1352882fea5f584813368ada2ecc4e86846d30a602b83e4ac89902c": {
@@ -38,5 +38,5 @@
       }
     }
   },
-  "signature": "goBB7OPJBa8jZP+97nYZxMhVYWhMreeYfvtML1yOtDx7JPViepR/g9wD1Ca6mA4945FDUE2MIfR+FL2Yb/ayAw=="
+  "signature": "Huj5drV+chovwJq2p2v3W4bUN1Cludr4l4E0uf8LuFvRdg/+l4LmmSyPHwxw7b2+YfIp/slxSWyPCZhc02/lDw=="
 }
