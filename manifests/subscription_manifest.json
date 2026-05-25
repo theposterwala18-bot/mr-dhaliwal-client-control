@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-23T17:27:40Z",
-    "client_count": 2,
+    "generated_at": "2026-05-25T15:42:04Z",
+    "client_count": 4,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -32,15 +32,51 @@
         "status": "demo",
         "plan_type": "demo",
         "valid_from": "2026-05-14T00:00:00Z",
-        "expires_at": "2026-05-27T23:59:59Z",
+        "expires_at": "2026-06-30T23:59:59Z",
         "amount_paid": 0.0,
         "balance_due": 0.0,
         "force_update": false,
-        "allowed_version": "1.0.0",
+        "allowed_version": "1.0.18",
         "blocked_reason": "",
         "notes": "Trial extended till 27-05-2026"
+      },
+      "86b424166003a891b7354f0ed60fe4720ef17c59eb834e32156a298cc2c9111c": {
+        "sr_no": "3",
+        "mobile_no": "70879 22852",
+        "erp_lookup_key": "86b424166003a891b7354f0ed60fe4720ef17c59eb834e32156a298cc2c9111c",
+        "client_name": "THE BURJ HARIKE MPCASS LTD",
+        "device_hash": "",
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-05-25T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": true,
+        "allowed_version": "1.0.18",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd": {
+        "sr_no": "4",
+        "mobile_no": "9417618038",
+        "erp_lookup_key": "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd",
+        "client_name": "THE HODLA KALAN MPCASS LTD",
+        "device_hash": "",
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.18",
+        "blocked_reason": "",
+        "notes": "1.0.18"
       }
     }
   },
-  "signature": "iUxDX2GWArlrB/cxAN30BLlsrC0E408RnixvwVchEYXK6ib4Aojz7mAu3+mDbSu5O+nOzy0NN67RzIbByRsPBQ=="
+  "signature": "aQBLsuG2Ku8n9YnGOZ3FkA3J1R9vmUr3DOefpDANC8afhd+NHvmnmwzdqbJIt1ef2ViLRPuRyaNVqYMVb0lQCw=="
 }
