@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-26T05:44:41Z",
+    "generated_at": "2026-05-26T17:47:04Z",
     "client_count": 4,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -10,6 +10,10 @@
         "erp_lookup_key": "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2",
         "client_name": "THE MOHAR SINGH WALA MPCASS LTD",
         "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+        "device_hashes": [
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990"
+        ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -28,6 +32,7 @@
         "erp_lookup_key": "39b3ebeb01256e7f9429893378e23eedf5c9963e45e0cb99abc49c5e14628c8e",
         "client_name": "THE KHIVA KALAN MPCASS LTD",
         "device_hash": "",
+        "device_hashes": [],
         "allowed_ip": "",
         "status": "demo",
         "plan_type": "demo",
@@ -46,6 +51,7 @@
         "erp_lookup_key": "86b424166003a891b7354f0ed60fe4720ef17c59eb834e32156a298cc2c9111c",
         "client_name": "THE BURJ HARIKE MPCASS LTD",
         "device_hash": "",
+        "device_hashes": [],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -64,6 +70,9 @@
         "erp_lookup_key": "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd",
         "client_name": "THE HODLA KALAN MPCASS LTD",
         "device_hash": "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05",
+        "device_hashes": [
+          "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05"
+        ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -78,5 +87,5 @@
       }
     }
   },
-  "signature": "iiGiqtVClCeUmJZ03G19P2aUd9Et90eTKru0mZ6BeHZIguwr8dVMqUjQAyGig5zQ3KGfCad5PzQJyRuA73+2Dg=="
+  "signature": "Vou+5frhQug72tdph6vWmECUUqziN/NFcz/OUY+Ov6DDKm4U50MsoNUsCqoGmF1dhcqCXENPmAC8reDLue5CBg=="
 }
