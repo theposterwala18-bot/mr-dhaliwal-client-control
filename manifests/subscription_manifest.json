@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-05-31T09:28:59Z",
-    "client_count": 5,
+    "generated_at": "2026-06-04T04:13:44Z",
+    "client_count": 6,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -109,8 +109,29 @@
         "allowed_version": "1.0.49",
         "blocked_reason": "",
         "notes": ""
+      },
+      "31adffc2a551e354c9ec295b4bbbd959ff7b360a4e6c4c382eef4d18a1b1f60b": {
+        "sr_no": "6",
+        "mobile_no": "9517924300",
+        "erp_lookup_key": "31adffc2a551e354c9ec295b4bbbd959ff7b360a4e6c4c382eef4d18a1b1f60b",
+        "client_name": "THE BHATIWAL MPCASS LTD",
+        "device_hash": "8db937c5ace8610e096fe14c40832f0f3ed4967f61d8876647529e735c589d69",
+        "device_hashes": [
+          "8db937c5ace8610e096fe14c40832f0f3ed4967f61d8876647529e735c589d69"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-05T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 2000.0,
+        "force_update": false,
+        "allowed_version": "1.0.0",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "3rjRv4GSw/96qK2thRAf057irrIpkqQjXUD5XHvCx/mFFNxoEX3WAa1WS1SooSFmRmpxgeZt2TebMh+/MoGLAA=="
+  "signature": "h44LCsCxcb4ZpVgsb8I+NdQG0H2czzr0L6oKep3SRaObQcoZ8JwwpLBcSdYaLI3t9uPYlbTk1Zkrj6c31m/VBg=="
 }
