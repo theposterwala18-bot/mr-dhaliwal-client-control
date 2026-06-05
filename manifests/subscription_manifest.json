@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-04T04:27:45Z",
-    "client_count": 6,
+    "generated_at": "2026-06-05T14:10:39Z",
+    "client_count": 7,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -130,8 +130,29 @@
         "allowed_version": "1.0.64",
         "blocked_reason": "",
         "notes": ""
+      },
+      "994efaf0ec7a9622de7c1a3dfa99f4c02c069877f84b56a944cc97cff578a174": {
+        "sr_no": "7",
+        "mobile_no": "9700021205",
+        "erp_lookup_key": "994efaf0ec7a9622de7c1a3dfa99f4c02c069877f84b56a944cc97cff578a174",
+        "client_name": "The alisher kalan mpcass ltd",
+        "device_hash": "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0",
+        "device_hashes": [
+          "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-10T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.65",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "0gQoErYpIDhbrLnV+vsz9F4ucR6jRP2TkG+GrnH6fYp4mNAcJ1gdTyP02q/+ULTUP6rYy1I6HXKYB4VmLGa1Aw=="
+  "signature": "7mk1cP1pIGgxyNMLfrIdltA9oJh3yukgoikjUuSexvZL9imXDKUpw4rfH4A+IIFx1U/SOlMjnV4c8KtzP72MDg=="
 }
