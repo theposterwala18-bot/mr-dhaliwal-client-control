@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-07T13:47:26Z",
-    "client_count": 7,
+    "generated_at": "2026-06-09T05:17:27Z",
+    "client_count": 8,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -151,8 +151,29 @@
         "allowed_version": "1.0.65",
         "blocked_reason": "",
         "notes": ""
+      },
+      "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57": {
+        "sr_no": "8",
+        "mobile_no": "9463355062",
+        "erp_lookup_key": "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57",
+        "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
+        "device_hash": "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
+        "device_hashes": [
+          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-12T23:59:59Z",
+        "amount_paid": 1000.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "kykE/nHAgHYSM0PqgTzrWRrBzTOK7FfwtcX/f+sUW9HdPonD9V4s39wVrLEk0O9sc0ZoBxlISra2yIWR9UShDQ=="
+  "signature": "TE14n6Ohu61QtB/ry/w7GA1WxB3Q0xdAJoLP2LzQV66EBMGsCsC/oI2BqQGkZNvNx+BLm1tmoOhH78zlgRVsAg=="
 }
