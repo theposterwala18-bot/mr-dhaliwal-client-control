@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-09T05:17:27Z",
-    "client_count": 8,
+    "generated_at": "2026-06-11T12:32:25Z",
+    "client_count": 9,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -144,7 +144,7 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-10T23:59:59Z",
+        "expires_at": "2026-06-15T23:59:59Z",
         "amount_paid": 500.0,
         "balance_due": 0.0,
         "force_update": false,
@@ -165,9 +165,30 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-12T23:59:59Z",
+        "expires_at": "2026-06-15T23:59:59Z",
         "amount_paid": 1000.0,
         "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead": {
+        "sr_no": "9",
+        "mobile_no": "9815247078",
+        "erp_lookup_key": "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead",
+        "client_name": "THE HERON KALAN MP CASS LTD HERON KALAN",
+        "device_hash": "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e",
+        "device_hashes": [
+          "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-15T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 2000.0,
         "force_update": false,
         "allowed_version": "1.0.69",
         "blocked_reason": "",
@@ -175,5 +196,5 @@
       }
     }
   },
-  "signature": "TE14n6Ohu61QtB/ry/w7GA1WxB3Q0xdAJoLP2LzQV66EBMGsCsC/oI2BqQGkZNvNx+BLm1tmoOhH78zlgRVsAg=="
+  "signature": "EDvAycgYn++Pwly/2izWxi5z6klRw8Vqe7QbSfFXZ15Ncn3XOFDNsp6RnQOt5jAj49pZeZm910UCEuzsOkq/BQ=="
 }
