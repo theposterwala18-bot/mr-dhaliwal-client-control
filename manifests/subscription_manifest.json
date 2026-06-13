@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-11T12:32:25Z",
-    "client_count": 9,
+    "generated_at": "2026-06-13T05:17:05Z",
+    "client_count": 10,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -193,8 +193,27 @@
         "allowed_version": "1.0.69",
         "blocked_reason": "",
         "notes": ""
+      },
+      "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e": {
+        "sr_no": "10",
+        "mobile_no": "9780028443",
+        "erp_lookup_key": "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e",
+        "client_name": "THE RAJGARH MPCSS",
+        "device_hash": "",
+        "device_hashes": [],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-15T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "EDvAycgYn++Pwly/2izWxi5z6klRw8Vqe7QbSfFXZ15Ncn3XOFDNsp6RnQOt5jAj49pZeZm910UCEuzsOkq/BQ=="
+  "signature": "Tbh3kNUxEMOs23AJCKURBAohuDRLYOS4MphRggcf6I04Vvn+n2RlATZoIRHBCieCTUe7NdmycAH78koSPIyXAQ=="
 }
