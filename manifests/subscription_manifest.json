@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-17T14:16:11Z",
-    "client_count": 10,
+    "generated_at": "2026-06-18T16:13:01Z",
+    "client_count": 11,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -199,21 +199,44 @@
         "mobile_no": "9780028443",
         "erp_lookup_key": "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e",
         "client_name": "THE RAJGARH MPCSS",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "device_hashes": [
+          "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+        ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-15T23:59:59Z",
+        "expires_at": "2026-06-20T23:59:59Z",
         "amount_paid": 0.0,
-        "balance_due": 0.0,
+        "balance_due": 5000.0,
         "force_update": false,
         "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "37c64a76bd88c4f7ccf0af5235ad9cb16853766724e9bae76523ce8abcb0065f": {
+        "sr_no": "11",
+        "mobile_no": "9876314333",
+        "erp_lookup_key": "37c64a76bd88c4f7ccf0af5235ad9cb16853766724e9bae76523ce8abcb0065f",
+        "client_name": "THE HERON KHURD MPCASS LTD",
+        "device_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "device_hashes": [
+          "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-20T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.0",
         "blocked_reason": "",
         "notes": ""
       }
     }
   },
-  "signature": "NlkTDyOFhqRqu9voIzkZxViy8H7GIvnC3KraeDW1TuYWmY3dhUvhTAgVDPA7Z58iqxLCC3vZzygH02Xm5Kw7Cw=="
+  "signature": "N4fYivGjc0Rcn/2w2yB0ZhgZBdAnOGbcdHHxR+fsHL1n9wy/xUB//znLUUMkb7uQkFC+mBJw1CzgzuyBNFhHBw=="
 }
