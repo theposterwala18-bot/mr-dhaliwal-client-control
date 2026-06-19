@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-19T05:54:32Z",
+    "generated_at": "2026-06-19T06:36:48Z",
     "client_count": 12,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -199,9 +199,9 @@
         "mobile_no": "9780028443",
         "erp_lookup_key": "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e",
         "client_name": "THE RAJGARH MPCSS",
-        "device_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "device_hash": "af2392b84a1ded2c9417a589d8f6d1523de4051139d5ab8d67027356f5d642ba",
         "device_hashes": [
-          "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+          "af2392b84a1ded2c9417a589d8f6d1523de4051139d5ab8d67027356f5d642ba"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -259,5 +259,5 @@
       }
     }
   },
-  "signature": "oEWsTGdNH6tO/4sbwUBZ5sOBgdOn7nIZX/seHNkMOT8QzOrZeKiIvt0AqwYTbRF5ARn+KB++cffkUzsmAHwjCQ=="
+  "signature": "24ojnDwp0y/gPYMEZjwg6mIQQraBQD0HNkhorgOV52lnUYnQ5AWzqnz7NXA47yUhMh6nxUo6iJ8eDqPLW75vDg=="
 }
