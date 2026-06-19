@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-18T16:13:01Z",
-    "client_count": 11,
+    "generated_at": "2026-06-19T05:54:32Z",
+    "client_count": 12,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -235,8 +235,29 @@
         "allowed_version": "1.0.0",
         "blocked_reason": "",
         "notes": ""
+      },
+      "37d1da1b3b10ad941ad393a51e03df99b29522f55c4edc25607f640338b95658": {
+        "sr_no": "12",
+        "mobile_no": "9872635880",
+        "erp_lookup_key": "37d1da1b3b10ad941ad393a51e03df99b29522f55c4edc25607f640338b95658",
+        "client_name": "THE KOT LALLU MPCASS LTD KOT LALLU",
+        "device_hash": "8654034879ed141a877ec77d10497f80d28f0b71b3760eba5633a2f2bd3455d1",
+        "device_hashes": [
+          "8654034879ed141a877ec77d10497f80d28f0b71b3760eba5633a2f2bd3455d1"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-20T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.88",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "N4fYivGjc0Rcn/2w2yB0ZhgZBdAnOGbcdHHxR+fsHL1n9wy/xUB//znLUUMkb7uQkFC+mBJw1CzgzuyBNFhHBw=="
+  "signature": "oEWsTGdNH6tO/4sbwUBZ5sOBgdOn7nIZX/seHNkMOT8QzOrZeKiIvt0AqwYTbRF5ARn+KB++cffkUzsmAHwjCQ=="
 }
