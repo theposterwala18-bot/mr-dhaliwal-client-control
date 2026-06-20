@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-19T06:36:48Z",
+    "generated_at": "2026-06-20T04:04:21Z",
     "client_count": 12,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -220,19 +220,19 @@
         "mobile_no": "9876314333",
         "erp_lookup_key": "37c64a76bd88c4f7ccf0af5235ad9cb16853766724e9bae76523ce8abcb0065f",
         "client_name": "THE HERON KHURD MPCASS LTD",
-        "device_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "device_hash": "0ddb4a244d38c5afcf06a80824ecc39d81e673cb20cae3031c8adae90b18f4e1",
         "device_hashes": [
-          "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+          "0ddb4a244d38c5afcf06a80824ecc39d81e673cb20cae3031c8adae90b18f4e1"
         ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-20T23:59:59Z",
+        "expires_at": "2026-06-21T23:59:59Z",
         "amount_paid": 0.0,
         "balance_due": 5000.0,
         "force_update": false,
-        "allowed_version": "1.0.0",
+        "allowed_version": "1.0.88",
         "blocked_reason": "",
         "notes": ""
       },
@@ -259,5 +259,5 @@
       }
     }
   },
-  "signature": "24ojnDwp0y/gPYMEZjwg6mIQQraBQD0HNkhorgOV52lnUYnQ5AWzqnz7NXA47yUhMh6nxUo6iJ8eDqPLW75vDg=="
+  "signature": "/lBviFhKnh3dMIHW+Vk8qnWVleUDyyMtJazqdDe9wWmIuDS4hKdHyBKvKBZQiZdJ8RyrvQr/hBqU25fBDTXOAA=="
 }
