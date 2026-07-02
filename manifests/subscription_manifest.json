@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-06-27T04:00:06Z",
-    "client_count": 13,
+    "generated_at": "2026-07-02T14:11:29Z",
+    "client_count": 14,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -277,8 +277,29 @@
         "allowed_version": "1.0.0",
         "blocked_reason": "",
         "notes": ""
+      },
+      "c2172f68c4069c1943f9df9dc5e016552d65022f9b4a12538cca726ce6fac579": {
+        "sr_no": "14",
+        "mobile_no": "788 912 1850",
+        "erp_lookup_key": "c2172f68c4069c1943f9df9dc5e016552d65022f9b4a12538cca726ce6fac579",
+        "client_name": "THE KAKRALA MPASS LTD",
+        "device_hash": "89bf2fa9fa175cf3d11d64873951cd0d9f515ee0a66059effce1dbdaa0db8c88",
+        "device_hashes": [
+          "89bf2fa9fa175cf3d11d64873951cd0d9f515ee0a66059effce1dbdaa0db8c88"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-04T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.102",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "X9LLdvnLQlDPj7SOqMVBeEnInhaJAzTccRjctVE9uo2Pg4IT4FmXqVQzkUys0RR7l5SUemJayVAcOHSbQ+uhBw=="
+  "signature": "5QEwQ7oAyf8hHEgrTmEPYpgT7NIr5qiAQgB/ZqxsZJmM/lu45nWFpttZ54W76x7+F6wODXG10VIYqmYi5HfUCQ=="
 }
