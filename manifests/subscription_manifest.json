@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-07-02T14:11:29Z",
+    "generated_at": "2026-07-03T07:11:50Z",
     "client_count": 14,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -32,13 +32,15 @@
         "mobile_no": "6283600337",
         "erp_lookup_key": "39b3ebeb01256e7f9429893378e23eedf5c9963e45e0cb99abc49c5e14628c8e",
         "client_name": "THE KHIVA KALAN MPCASS LTD",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "56347d717c95b02d1285563dd5def2a0d52ba536493461736a00fcd21d2899a6",
+        "device_hashes": [
+          "56347d717c95b02d1285563dd5def2a0d52ba536493461736a00fcd21d2899a6"
+        ],
         "allowed_ip": "",
-        "status": "demo",
-        "plan_type": "demo",
+        "status": "paid",
+        "plan_type": "paid",
         "valid_from": "2026-05-14T00:00:00Z",
-        "expires_at": "2026-06-30T23:59:59Z",
+        "expires_at": "2026-07-15T23:59:59Z",
         "amount_paid": 0.0,
         "balance_due": 0.0,
         "force_update": false,
@@ -301,5 +303,5 @@
       }
     }
   },
-  "signature": "5QEwQ7oAyf8hHEgrTmEPYpgT7NIr5qiAQgB/ZqxsZJmM/lu45nWFpttZ54W76x7+F6wODXG10VIYqmYi5HfUCQ=="
+  "signature": "b9FVox6MPyKXYF4f1+XI/r9daSpfvecmwBiHctniIZvRV03kRp4QMlC2vEcbqM96UgEJfgu3LPNfW6FdUAXTCw=="
 }
