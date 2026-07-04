@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-07-03T07:11:50Z",
+    "generated_at": "2026-07-04T11:28:47Z",
     "client_count": 14,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -182,7 +182,8 @@
         "client_name": "THE HERON KALAN MP CASS LTD HERON KALAN",
         "device_hash": "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e",
         "device_hashes": [
-          "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e"
+          "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e",
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -303,5 +304,5 @@
       }
     }
   },
-  "signature": "b9FVox6MPyKXYF4f1+XI/r9daSpfvecmwBiHctniIZvRV03kRp4QMlC2vEcbqM96UgEJfgu3LPNfW6FdUAXTCw=="
+  "signature": "YSZkiRsFXQAN4KwijDTyBUlW2/knaoUNTgmW2nYAKq3PKXc01VdeGWCep+IMEMd+hoEbgYKFf6DhMrC/owZwBQ=="
 }
