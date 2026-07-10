@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-07-10T08:06:29Z",
+    "generated_at": "2026-07-10T08:19:33Z",
     "client_count": 14,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -161,7 +161,8 @@
         "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
         "device_hash": "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
         "device_hashes": [
-          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416"
+          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
+          "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -305,5 +306,5 @@
       }
     }
   },
-  "signature": "horUaiVvD1fb4fgM/b2k6UumtSaEpTRMeaucIqamJYDG0eV+npgI7Ewst7e4F49X+KSjR0f4mUlBLeiGoERoBA=="
+  "signature": "v45s5sfZCS9QJf4SVXkK6/jcoIZnKsXMeONeviKPHonlV6oBl+K0BJtccPwoLBK+9sY2rBbRUldVONp0y2dwBQ=="
 }
