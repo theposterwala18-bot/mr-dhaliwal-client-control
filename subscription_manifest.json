@@ -1,0 +1,352 @@
+{
+  "payload": {
+    "manifest_type": "subscription_manifest",
+    "generated_at": "2026-07-18T06:56:01Z",
+    "client_count": 16,
+    "clients": {
+      "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
+        "sr_no": "1",
+        "mobile_no": "9815036664",
+        "erp_lookup_key": "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2",
+        "client_name": "THE MOHAR SINGH WALA MPCASS LTD",
+        "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+        "device_hashes": [
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
+          "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 2000.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.0",
+        "blocked_reason": "",
+        "notes": "Primary active client"
+      },
+      "39b3ebeb01256e7f9429893378e23eedf5c9963e45e0cb99abc49c5e14628c8e": {
+        "sr_no": "2",
+        "mobile_no": "6283600337",
+        "erp_lookup_key": "39b3ebeb01256e7f9429893378e23eedf5c9963e45e0cb99abc49c5e14628c8e",
+        "client_name": "THE KHIVA KALAN MPCASS LTD",
+        "device_hash": "56347d717c95b02d1285563dd5def2a0d52ba536493461736a00fcd21d2899a6",
+        "device_hashes": [
+          "56347d717c95b02d1285563dd5def2a0d52ba536493461736a00fcd21d2899a6"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-05-14T00:00:00Z",
+        "expires_at": "2026-07-15T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.18",
+        "blocked_reason": "",
+        "notes": "Trial extended till 27-05-2026"
+      },
+      "86b424166003a891b7354f0ed60fe4720ef17c59eb834e32156a298cc2c9111c": {
+        "sr_no": "3",
+        "mobile_no": "70879 22852",
+        "erp_lookup_key": "86b424166003a891b7354f0ed60fe4720ef17c59eb834e32156a298cc2c9111c",
+        "client_name": "THE BURJ HARIKE MPCASS LTD",
+        "device_hash": "",
+        "device_hashes": [],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-05-25T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": true,
+        "allowed_version": "1.0.18",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd": {
+        "sr_no": "4",
+        "mobile_no": "9417618038",
+        "erp_lookup_key": "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd",
+        "client_name": "THE HODLA KALAN MPCASS LTD",
+        "device_hash": "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05",
+        "device_hashes": [
+          "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05",
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
+          "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 1000.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.18",
+        "blocked_reason": "",
+        "notes": "1.0.18"
+      },
+      "44bbbd457f8fc1ec90f61b369fe0a14bbc4fb570c55232353ea039bc18c84c14": {
+        "sr_no": "5",
+        "mobile_no": "98156 28700",
+        "erp_lookup_key": "44bbbd457f8fc1ec90f61b369fe0a14bbc4fb570c55232353ea039bc18c84c14",
+        "client_name": "THE DHALEWAN MPCASS LTD",
+        "device_hash": "6cd9e9ea4bcca76efd0117d77a85d310d1955387966d1fd360cc7b0658981136",
+        "device_hashes": [
+          "6cd9e9ea4bcca76efd0117d77a85d310d1955387966d1fd360cc7b0658981136"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-15T23:59:59Z",
+        "amount_paid": 2000.0,
+        "balance_due": 0.0,
+        "force_update": true,
+        "allowed_version": "1.0.49",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "31adffc2a551e354c9ec295b4bbbd959ff7b360a4e6c4c382eef4d18a1b1f60b": {
+        "sr_no": "6",
+        "mobile_no": "9517924300",
+        "erp_lookup_key": "31adffc2a551e354c9ec295b4bbbd959ff7b360a4e6c4c382eef4d18a1b1f60b",
+        "client_name": "THE BHATIWAL MPCASS LTD",
+        "device_hash": "8db937c5ace8610e096fe14c40832f0f3ed4967f61d8876647529e735c589d69",
+        "device_hashes": [
+          "8db937c5ace8610e096fe14c40832f0f3ed4967f61d8876647529e735c589d69"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-12T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.64",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "994efaf0ec7a9622de7c1a3dfa99f4c02c069877f84b56a944cc97cff578a174": {
+        "sr_no": "7",
+        "mobile_no": "9700021205",
+        "erp_lookup_key": "994efaf0ec7a9622de7c1a3dfa99f4c02c069877f84b56a944cc97cff578a174",
+        "client_name": "The alisher kalan mpcass ltd",
+        "device_hash": "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0",
+        "device_hashes": [
+          "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.65",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57": {
+        "sr_no": "8",
+        "mobile_no": "9463355062",
+        "erp_lookup_key": "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57",
+        "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
+        "device_hash": "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
+        "device_hashes": [
+          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
+          "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-15T23:59:59Z",
+        "amount_paid": 1000.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead": {
+        "sr_no": "9",
+        "mobile_no": "9815247078",
+        "erp_lookup_key": "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead",
+        "client_name": "THE HERON KALAN MP CASS LTD HERON KALAN",
+        "device_hash": "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e",
+        "device_hashes": [
+          "cee3fb2ad9b538b5ba28ef0b714a497796a4f5169943225e41b0cc01ff18685e",
+          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
+          "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 3000.0,
+        "balance_due": 3000.0,
+        "force_update": false,
+        "allowed_version": "1.0.104",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e": {
+        "sr_no": "10",
+        "mobile_no": "9780028443",
+        "erp_lookup_key": "6fb03dd2057fe252169b7d8139d02f9074bebe9b2d0e2409eba769a0b330a59e",
+        "client_name": "THE RAJGARH MPCSS",
+        "device_hash": "af2392b84a1ded2c9417a589d8f6d1523de4051139d5ab8d67027356f5d642ba",
+        "device_hashes": [
+          "af2392b84a1ded2c9417a589d8f6d1523de4051139d5ab8d67027356f5d642ba"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.69",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "37c64a76bd88c4f7ccf0af5235ad9cb16853766724e9bae76523ce8abcb0065f": {
+        "sr_no": "11",
+        "mobile_no": "9876314333",
+        "erp_lookup_key": "37c64a76bd88c4f7ccf0af5235ad9cb16853766724e9bae76523ce8abcb0065f",
+        "client_name": "THE HERON KHURD MPCASS LTD",
+        "device_hash": "0ddb4a244d38c5afcf06a80824ecc39d81e673cb20cae3031c8adae90b18f4e1",
+        "device_hashes": [
+          "0ddb4a244d38c5afcf06a80824ecc39d81e673cb20cae3031c8adae90b18f4e1"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.88",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "37d1da1b3b10ad941ad393a51e03df99b29522f55c4edc25607f640338b95658": {
+        "sr_no": "12",
+        "mobile_no": "9872635880",
+        "erp_lookup_key": "37d1da1b3b10ad941ad393a51e03df99b29522f55c4edc25607f640338b95658",
+        "client_name": "THE KOT LALLU MPCASS LTD KOT LALLU",
+        "device_hash": "8654034879ed141a877ec77d10497f80d28f0b71b3760eba5633a2f2bd3455d1",
+        "device_hashes": [
+          "8654034879ed141a877ec77d10497f80d28f0b71b3760eba5633a2f2bd3455d1"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 5000.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.88",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "f06aa8652482f4bb160ac8e58fffbe500ad421490bdb556aa3a555ec65256f4c": {
+        "sr_no": "13",
+        "mobile_no": "8968632277",
+        "erp_lookup_key": "f06aa8652482f4bb160ac8e58fffbe500ad421490bdb556aa3a555ec65256f4c",
+        "client_name": "THE NARAINGARH MP CASS LTD",
+        "device_hash": "40c1228872b93f49dfacae46b70250cf6cbf691afb015d3269cc63a1fd5d7312",
+        "device_hashes": [
+          "40c1228872b93f49dfacae46b70250cf6cbf691afb015d3269cc63a1fd5d7312"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-06-30T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.0",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "c2172f68c4069c1943f9df9dc5e016552d65022f9b4a12538cca726ce6fac579": {
+        "sr_no": "14",
+        "mobile_no": "788 912 1850",
+        "erp_lookup_key": "c2172f68c4069c1943f9df9dc5e016552d65022f9b4a12538cca726ce6fac579",
+        "client_name": "THE KAKRALA MPASS LTD",
+        "device_hash": "89bf2fa9fa175cf3d11d64873951cd0d9f515ee0a66059effce1dbdaa0db8c88",
+        "device_hashes": [
+          "89bf2fa9fa175cf3d11d64873951cd0d9f515ee0a66059effce1dbdaa0db8c88"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-04T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.102",
+        "blocked_reason": "",
+        "notes": ""
+      },
+      "142c03c15a9acdd8bf6aeefe37f8de6f4fa695c8d6241f76eed6e69791ea2e4c": {
+        "sr_no": "15",
+        "mobile_no": "7888475939",
+        "erp_lookup_key": "142c03c15a9acdd8bf6aeefe37f8de6f4fa695c8d6241f76eed6e69791ea2e4c",
+        "client_name": "The Nangal Kalan mpcass Ltd",
+        "device_hash": "cbf6d535b9db145dc1367ecd9a0b4025640a6e3d879c0f2031bb62d6e2afc57c",
+        "device_hashes": [
+          "cbf6d535b9db145dc1367ecd9a0b4025640a6e3d879c0f2031bb62d6e2afc57c"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-20T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.112",
+        "blocked_reason": "",
+        "notes": "Please Pay Full Payment"
+      },
+      "6c42a7f807396123522227d96fece0b26f9adf5662a6fb5a1c0e3b1cdceb6273": {
+        "sr_no": "16",
+        "mobile_no": "9815540500",
+        "erp_lookup_key": "6c42a7f807396123522227d96fece0b26f9adf5662a6fb5a1c0e3b1cdceb6273",
+        "client_name": "The Mansa MPCASS Ltd. Mansa",
+        "device_hash": "4963668ab4938007a233e601a9821e1c24586d00f4d45d2c4c90f3ebc4e0ccdd",
+        "device_hashes": [
+          "4963668ab4938007a233e601a9821e1c24586d00f4d45d2c4c90f3ebc4e0ccdd"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-07-20T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.112",
+        "blocked_reason": "",
+        "notes": ""
+      }
+    }
+  },
+  "signature": "1708pHlnCoCJWjBgcWr4qmXJ+h7Z2MsviDamyCSdMWgWiCFQWUFKIvnpR5hRNhKgHjJQO8ZIeBo9YwxjntK6Cg=="
+}
