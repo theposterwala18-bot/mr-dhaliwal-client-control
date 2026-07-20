@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-07-18T07:00:13Z",
+    "generated_at": "2026-07-20T11:19:13Z",
     "client_count": 16,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -146,11 +146,11 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-30T23:59:59Z",
-        "amount_paid": 500.0,
-        "balance_due": 0.0,
+        "expires_at": "2026-07-30T23:59:59Z",
+        "amount_paid": 5000.0,
+        "balance_due": 5000.0,
         "force_update": false,
-        "allowed_version": "1.0.65",
+        "allowed_version": "1.0.137",
         "blocked_reason": "",
         "notes": ""
       },
@@ -325,10 +325,10 @@
         "blocked_reason": "",
         "notes": "Please Pay Full Payment"
       },
-      "6c42a7f807396123522227d96fece0b26f9adf5662a6fb5a1c0e3b1cdceb6273": {
+      "6d2d5f393fdbc81d0a89ab9c95615482f6af68454be349e6f5006f652c59efa4": {
         "sr_no": "16",
         "mobile_no": "9815540500",
-        "erp_lookup_key": "6c42a7f807396123522227d96fece0b26f9adf5662a6fb5a1c0e3b1cdceb6273",
+        "erp_lookup_key": "6d2d5f393fdbc81d0a89ab9c95615482f6af68454be349e6f5006f652c59efa4",
         "client_name": "The Mansa MPCASS Ltd. Mansa",
         "device_hash": "4963668ab4938007a233e601a9821e1c24586d00f4d45d2c4c90f3ebc4e0ccdd",
         "device_hashes": [
@@ -344,9 +344,9 @@
         "force_update": false,
         "allowed_version": "1.0.127",
         "blocked_reason": "",
-        "notes": ""
+        "notes": "Please Pay Full Payment"
       }
     }
   },
-  "signature": "sSk+3mvaG6A5LtyA8VJiITiB71buhtqOIT2oSutZhrhP8QgRqg6VAIm2VBEk1K7/y4E12lnx6PFb48fVecHnCg=="
+  "signature": "I+5gR/zGRlKfP/LSyggIZJazkLR4oFoWGfu0cd0OovlhqqIRPq3PvloisXy+WHT+yf+UjKEJMtNURwY4mqCSDw=="
 }
