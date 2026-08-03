@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-07-21T13:59:07Z",
-    "client_count": 16,
+    "generated_at": "2026-08-03T13:58:04Z",
+    "client_count": 17,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -345,8 +345,29 @@
         "allowed_version": "1.0.127",
         "blocked_reason": "",
         "notes": "Please Pay Full Payment"
+      },
+      "e2c36339661027dfcfaab0c0267f6948b531aaa9726ee437d576acbb583496ce": {
+        "sr_no": "17",
+        "mobile_no": "98763 85737",
+        "erp_lookup_key": "e2c36339661027dfcfaab0c0267f6948b531aaa9726ee437d576acbb583496ce",
+        "client_name": "The Dhanola Co. op Agri.M/P Soceity Ltd",
+        "device_hash": "635b9b9e014e7f6eef615a6d96530241f6469ede8c8ef3fa25aeff9eaff1fc9a",
+        "device_hashes": [
+          "635b9b9e014e7f6eef615a6d96530241f6469ede8c8ef3fa25aeff9eaff1fc9a"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-05T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.144",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "C6oCv9g25SO2xCZ+fmSDCNuvilgLeApae/aT6z0KT94KzIYKaqkzugX1UWF3f1XRNRwx56sjju0ZfWEpAVVCAg=="
+  "signature": "+f9aH98yJV+Eq1yapPj7AQb6kwPR9g/NJsg8AdBFUcqtScmBzC3db34j+gMi2eREhSwsb9AXVD3pPO89DDU/Cg=="
 }
