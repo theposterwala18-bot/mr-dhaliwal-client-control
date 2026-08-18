@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-18T12:22:58Z",
+    "generated_at": "2026-08-18T16:41:19Z",
     "client_count": 17,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -140,7 +140,8 @@
         "client_name": "The alisher kalan mpcass ltd",
         "device_hash": "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0",
         "device_hashes": [
-          "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0"
+          "63601dc646009a45b5ff262ce41f9adaba0d832948fb255391f028ef975e1ce0",
+          "d2bdcff7ba6502f09caa24f53a3624c4d149355637c30c0483b9a226800c11bf"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -150,7 +151,7 @@
         "amount_paid": 5000.0,
         "balance_due": 5000.0,
         "force_update": false,
-        "allowed_version": "1.0.137",
+        "allowed_version": "1.0.157",
         "blocked_reason": "",
         "notes": ""
       },
@@ -370,5 +371,5 @@
       }
     }
   },
-  "signature": "hEbe6FWL/2GTFN5iI6tGYGI0+9i4DFE44TKhz0mje0w/sQ7SxGzGSTRh2/1FGGOvVZUKUjgjr7kZtbKbj2F+AA=="
+  "signature": "MNHHvHbwdBLfV5TMbIkpTntlsZz24uK/oDvrhQJNCThyOurO8YlbqExEoBdrjMv2jR2y45NN69oVCtgWk9YmDw=="
 }
