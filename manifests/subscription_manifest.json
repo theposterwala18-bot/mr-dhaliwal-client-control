@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-19T08:08:58Z",
+    "generated_at": "2026-08-19T08:18:01Z",
     "client_count": 17,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -188,7 +188,8 @@
           "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
           "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb",
           "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
-          "0b772de754e178c9c10ad681bbc085a73da00b7bc30b3279a95289b44d70a705"
+          "36b97d29f621d5f33f23bd06e2a7268925e4910c8083c8f1b24b2d14906f24f4",
+          "dc3477002ee15a89f7ed86760439cacb7474e35b19d278693270d29cf87e56a5"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -372,5 +373,5 @@
       }
     }
   },
-  "signature": "Uxx6pB7KaS4x5YKUZ6WZvbLzhujxR9kA/bV/6Txvp3XLJblhL1LbQN/S34GztNZLSWJVAyM6kESKBJD/gcGTCA=="
+  "signature": "iqXHczXOXwwLyVJkhsdKsAGmh1O0hyQwSaqr1HM6daAk3PYpJGeRm4q+2SZpQNimmrmv3KsG4+hDXgeCJVCYDw=="
 }
