@@ -1,12 +1,12 @@
 {
   "payload": {
     "manifest_type": "version_manifest",
-    "generated_at": "2026-08-21T10:45:38Z",
+    "generated_at": "2026-08-21T14:54:12Z",
     "latest_version": "1.0.158",
     "minimum_version": "1.0.0",
     "download_url": "https://github.com/theposterwala18-bot/mr-dhaliwal-client-control/releases/latest/download/MrDhaliwalCreation_Client_Latest.zip",
     "force_update": false,
     "message": "Latest client package ready aa."
   },
-  "signature": "m1HPdkvSSwt8ujaNYbywnBkf/1urytKR3aCu8LwF54dITj/WIr3kGJ5W9AOglKrwe7Zc7xHTpCmWedVduVK9BA=="
+  "signature": "PSbPhEpneif6LNr6dJ22tbf2UZp3j9gsC5a2R/FCnJlbRdqo4adrav9DUisANVKo0ImSqcLv+ggkwpASIF81CQ=="
 }
