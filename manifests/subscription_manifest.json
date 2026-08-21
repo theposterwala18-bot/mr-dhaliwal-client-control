@@ -1,13 +1,13 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-21T15:02:53Z",
+    "generated_at": "2026-08-21T15:03:34Z",
     "client_count": 18,
     "clients": {
-      "eb34cb644e24151acded24aef34e7f984885845b2a9dc7b0d584ed7aef9032ef": {
+      "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
         "mobile_no": "9815036664",
-        "erp_lookup_key": "eb34cb644e24151acded24aef34e7f984885845b2a9dc7b0d584ed7aef9032ef",
+        "erp_lookup_key": "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2",
         "client_name": "THE MOHAR SINGH WALA MPCASS LTD",
         "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
         "device_hashes": [
@@ -394,5 +394,5 @@
       }
     }
   },
-  "signature": "BaXzQK0r/Oi7eQpjtTlDRVrYBt0RG6gyvJLwTVDZ5mswFL/vdXEmtrs7mq8+LRul0OXiszMT6yhSFTpDkhtKCQ=="
+  "signature": "R5QqWgGP98fcY7svSP/9rige/sfYiciz8xAR3qKgIGJwjOBzB4ar2/8X5dJg4WLTqxJ+jEJQk2rG8JguqYVODw=="
 }
