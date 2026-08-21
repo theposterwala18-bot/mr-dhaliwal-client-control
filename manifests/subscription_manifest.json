@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-21T14:58:11Z",
-    "client_count": 17,
+    "generated_at": "2026-08-21T15:02:53Z",
+    "client_count": 18,
     "clients": {
       "eb34cb644e24151acded24aef34e7f984885845b2a9dc7b0d584ed7aef9032ef": {
         "sr_no": "1",
@@ -370,8 +370,29 @@
         "allowed_version": "1.0.144",
         "blocked_reason": "",
         "notes": ""
+      },
+      "e99e9df383f82ff754d213eec03b1f8c992f3c66d2810e37f212f46c0e75727e": {
+        "sr_no": "18",
+        "mobile_no": "75894 29991",
+        "erp_lookup_key": "e99e9df383f82ff754d213eec03b1f8c992f3c66d2810e37f212f46c0e75727e",
+        "client_name": "Kishangarh Urf Sedha Singhewala",
+        "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+        "device_hashes": [
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-21T23:59:59Z",
+        "amount_paid": 5000.0,
+        "balance_due": 5000.0,
+        "force_update": false,
+        "allowed_version": "1.0.158",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "4KIMEGZO//d/mCZ3tH7+mjuaeh360STZtp+VXUB/wzDIWndmyMeH88gljhyydAE1Ae9lUFV42RVkyLaKrcAJDw=="
+  "signature": "BaXzQK0r/Oi7eQpjtTlDRVrYBt0RG6gyvJLwTVDZ5mswFL/vdXEmtrs7mq8+LRul0OXiszMT6yhSFTpDkhtKCQ=="
 }
