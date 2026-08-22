@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-21T15:03:34Z",
-    "client_count": 18,
+    "generated_at": "2026-08-22T15:05:48Z",
+    "client_count": 19,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -391,8 +391,29 @@
         "allowed_version": "1.0.158",
         "blocked_reason": "",
         "notes": ""
+      },
+      "be4355fc5d9aa3545cb5d41a4ee9e0147e4d25eaf8710aa115bbaa4dc670a6c1": {
+        "sr_no": "19",
+        "mobile_no": "8872082004",
+        "erp_lookup_key": "be4355fc5d9aa3545cb5d41a4ee9e0147e4d25eaf8710aa115bbaa4dc670a6c1",
+        "client_name": "The DEHAR MPCASS LTD",
+        "device_hash": "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c",
+        "device_hashes": [
+          "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-23T23:59:59Z",
+        "amount_paid": 1000.0,
+        "balance_due": 1000.0,
+        "force_update": false,
+        "allowed_version": "1.0.158",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "R5QqWgGP98fcY7svSP/9rige/sfYiciz8xAR3qKgIGJwjOBzB4ar2/8X5dJg4WLTqxJ+jEJQk2rG8JguqYVODw=="
+  "signature": "8TCC/OiEfigdAI1klUINlVnbfwEmCjX5BLST869f8O5KNDFRScnBFRgwJ9IHXyi3KX37az/A4bgWckuF6MknBA=="
 }
