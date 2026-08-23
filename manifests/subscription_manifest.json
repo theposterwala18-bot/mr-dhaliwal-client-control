@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-22T15:05:48Z",
+    "generated_at": "2026-08-23T05:24:57Z",
     "client_count": 19,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -376,10 +376,8 @@
         "mobile_no": "75894 29991",
         "erp_lookup_key": "e99e9df383f82ff754d213eec03b1f8c992f3c66d2810e37f212f46c0e75727e",
         "client_name": "Kishangarh Urf Sedha Singhewala",
-        "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
-        "device_hashes": [
-          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
-        ],
+        "device_hash": "",
+        "device_hashes": [],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -415,5 +413,5 @@
       }
     }
   },
-  "signature": "8TCC/OiEfigdAI1klUINlVnbfwEmCjX5BLST869f8O5KNDFRScnBFRgwJ9IHXyi3KX37az/A4bgWckuF6MknBA=="
+  "signature": "xiAuzqWcnlK+m4XSJ0THQ3l2Dr7MxAZxOn31j5TmcxTLmCUf4gxSx0lnrBsff1m8Jla8YFkdSxrksDuK1MUGAw=="
 }
