@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-23T08:50:48Z",
+    "generated_at": "2026-08-23T08:55:20Z",
     "client_count": 19,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -395,9 +395,8 @@
         "mobile_no": "8872082004",
         "erp_lookup_key": "be4355fc5d9aa3545cb5d41a4ee9e0147e4d25eaf8710aa115bbaa4dc670a6c1",
         "client_name": "The DEHAR MPCASS LTD",
-        "device_hash": "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c",
+        "device_hash": "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
         "device_hashes": [
-          "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c",
           "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
         ],
         "allowed_ip": "",
@@ -414,5 +413,5 @@
       }
     }
   },
-  "signature": "ILAQBGtd1/iBsedQVgcHNkfFaomFaN6YHMJ7E0MihFKvTgGN1dC5VzdTazicv/2D1/5Y8QpcZV/pN8vJ6CTuBA=="
+  "signature": "UyuMvOtZD7q+0zjPGtbrkHOq41ztRcc7tK3E+5fBR9Y/BdNeoB2gXVMMoB7EJInyONyyER313b9tkYsDXEN1DA=="
 }
