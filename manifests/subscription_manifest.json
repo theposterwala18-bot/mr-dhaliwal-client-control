@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-23T05:24:57Z",
+    "generated_at": "2026-08-23T08:50:48Z",
     "client_count": 19,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -397,7 +397,8 @@
         "client_name": "The DEHAR MPCASS LTD",
         "device_hash": "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c",
         "device_hashes": [
-          "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c"
+          "9d41b08328ce5b066f91ad654d567bf261a3fc636969b8809f60465c192ce31c",
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -413,5 +414,5 @@
       }
     }
   },
-  "signature": "xiAuzqWcnlK+m4XSJ0THQ3l2Dr7MxAZxOn31j5TmcxTLmCUf4gxSx0lnrBsff1m8Jla8YFkdSxrksDuK1MUGAw=="
+  "signature": "ILAQBGtd1/iBsedQVgcHNkfFaomFaN6YHMJ7E0MihFKvTgGN1dC5VzdTazicv/2D1/5Y8QpcZV/pN8vJ6CTuBA=="
 }
