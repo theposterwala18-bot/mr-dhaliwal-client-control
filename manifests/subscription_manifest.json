@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-24T13:17:43Z",
+    "generated_at": "2026-08-24T13:19:35Z",
     "client_count": 20,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -413,10 +413,10 @@
         "blocked_reason": "",
         "notes": ""
       },
-      "ce88d3a207f40b95b5185a72c45f8fb7302bf18099e5866338c7d7035d71e85f": {
+      "31a9fde0b6347042fda90e1904468cde9ba607cfcad632435f54c76326eb5dc1": {
         "sr_no": "20",
         "mobile_no": "9592361513",
-        "erp_lookup_key": "ce88d3a207f40b95b5185a72c45f8fb7302bf18099e5866338c7d7035d71e85f",
+        "erp_lookup_key": "31a9fde0b6347042fda90e1904468cde9ba607cfcad632435f54c76326eb5dc1",
         "client_name": "THE Banbhaura MPCASS LTD",
         "device_hash": "bfeafe135bee41ae76f225eaf3bf42a097795563420298c9476cff249f1e9a6d",
         "device_hashes": [
@@ -436,5 +436,5 @@
       }
     }
   },
-  "signature": "sfB6N6VCLPcKrkBsQlh8C/n/Emc4h1m/oTjbm48NOCfSCQ8ZQ2Ft9qTWwE64iZCtIJe77tx0dbHTsjVUTiKiBw=="
+  "signature": "plg0CnhHuSOuigxpsX/vhGAlD2divZG7jvxBHwoYMlabB5k6z0YNBy/DXjPM2iiiMqHlqO7fL84GWGE62mWeCg=="
 }
