@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-23T09:26:26Z",
-    "client_count": 19,
+    "generated_at": "2026-08-24T13:13:22Z",
+    "client_count": 20,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -376,8 +376,10 @@
         "mobile_no": "75894 29991",
         "erp_lookup_key": "e99e9df383f82ff754d213eec03b1f8c992f3c66d2810e37f212f46c0e75727e",
         "client_name": "Kishangarh Urf Sedha Singhewala",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "f3ed79f0180421017115c47b1ff1e91b76dd14c31989de904f632fb225fba5fa",
+        "device_hashes": [
+          "f3ed79f0180421017115c47b1ff1e91b76dd14c31989de904f632fb225fba5fa"
+        ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -410,8 +412,29 @@
         "allowed_version": "1.0.158",
         "blocked_reason": "",
         "notes": ""
+      },
+      "7f8e9bdc144b29fefd8bad9dc3175ac4a0e111f9c1392196f9ce254418427589": {
+        "sr_no": "20",
+        "mobile_no": "9592361513",
+        "erp_lookup_key": "7f8e9bdc144b29fefd8bad9dc3175ac4a0e111f9c1392196f9ce254418427589",
+        "client_name": "THE Banbhaura MPCASS LTD",
+        "device_hash": "bfeafe135bee41ae76f225eaf3bf42a097795563420298c9476cff249f1e9a6d",
+        "device_hashes": [
+          "bfeafe135bee41ae76f225eaf3bf42a097795563420298c9476cff249f1e9a6d"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-26T23:59:59Z",
+        "amount_paid": 1000.0,
+        "balance_due": 1000.0,
+        "force_update": false,
+        "allowed_version": "1.0.163",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "KbE+/fAcuS5ye/dF5uv9xZ6rFhamXAcaA7azE9Ev5jar31xztHbWtvboKG68ZX6V2vsrY9BLWmrj1hwOIIecDQ=="
+  "signature": "KsFRoC/2FmoHeS9lhu4S1S2G3PJ6KHUE2A4vDXMe0yWns+8Pq7zW6Tj3saH4koSFKBE/r2BbDkrhA2A11W+SBA=="
 }
