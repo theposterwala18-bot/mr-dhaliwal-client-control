@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-24T14:21:57Z",
-    "client_count": 20,
+    "generated_at": "2026-08-25T07:16:43Z",
+    "client_count": 21,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -433,8 +433,29 @@
         "allowed_version": "1.0.163",
         "blocked_reason": "",
         "notes": ""
+      },
+      "b4db1e57b0c655db71881278fd8e675e171386db23b6c04370464e76bc942bbb": {
+        "sr_no": "21",
+        "mobile_no": "98149 68005",
+        "erp_lookup_key": "b4db1e57b0c655db71881278fd8e675e171386db23b6c04370464e76bc942bbb",
+        "client_name": "The Bathan MPCASS Ltd.",
+        "device_hash": "57174a860bc50e02e2483c5cfc7aa7dddef5e65be1f7f16b123df34bf9914088",
+        "device_hashes": [
+          "57174a860bc50e02e2483c5cfc7aa7dddef5e65be1f7f16b123df34bf9914088"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-26T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.163",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "98H/ABEKSOyxCuMCYLjFcn5Wanxl4ewc2LIQDuRKTMoXuHDAoqzL/4nWCWRlS2F3HwyAE/FnuQ/TJiCJ6KK/Cw=="
+  "signature": "ySGMrJ/cYCoj8HKfiBczwz1Of+UKsSmhR8/lTecZqacvkIcvZifgEMkvOEBX5imBHCRUOSUoW90j2sTuXNh5Aw=="
 }
