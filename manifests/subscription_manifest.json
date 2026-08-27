@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-27T05:32:21Z",
+    "generated_at": "2026-08-27T05:36:04Z",
     "client_count": 22,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -466,11 +466,11 @@
         ],
         "allowed_ip": "",
         "status": "paid",
-        "plan_type": "demo",
+        "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-08-27T23:59:59Z",
-        "amount_paid": 0.0,
-        "balance_due": 0.0,
+        "expires_at": "2026-08-28T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
         "force_update": false,
         "allowed_version": "1.0.164",
         "blocked_reason": "",
@@ -478,5 +478,5 @@
       }
     }
   },
-  "signature": "6FzEtD20FkB6mOZIScSpat03zP1MBZaniwXxxOk9OTeiiCNywhNpFCatV85Zmjw3n4l0MBdjQe6xazB5rEPZAA=="
+  "signature": "zpcvEYOclLHitlAATbcU6gtD+QYCq6ufE6l+myCOS8x6VQs0+aJjUbPNLb0v+PsO1sOlIbSlLnOrNYuDQfH9Cw=="
 }
