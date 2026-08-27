@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-27T05:36:04Z",
+    "generated_at": "2026-08-27T06:34:45Z",
     "client_count": 22,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -462,7 +462,8 @@
         "client_name": "The budh singh wala gillan mp cass ltd",
         "device_hash": "0922aa44e54fcfb12405c348e012f18dc27044437a5205c45b476c60a6a949d3",
         "device_hashes": [
-          "0922aa44e54fcfb12405c348e012f18dc27044437a5205c45b476c60a6a949d3"
+          "0922aa44e54fcfb12405c348e012f18dc27044437a5205c45b476c60a6a949d3",
+          "27b37c344280090b33ade6f5f649acaafa4cf915b8f0f68c9b84e6e16513bef6"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -478,5 +479,5 @@
       }
     }
   },
-  "signature": "zpcvEYOclLHitlAATbcU6gtD+QYCq6ufE6l+myCOS8x6VQs0+aJjUbPNLb0v+PsO1sOlIbSlLnOrNYuDQfH9Cw=="
+  "signature": "c3RJnxSTe63I1JEh/nvy7FGLiYrKrCfpNYJIkoClb6mAHbIWCUHmcIxWXnpfydEq5fg6YVDYdOL1L3OJanf7Dg=="
 }
