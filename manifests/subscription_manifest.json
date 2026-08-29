@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-29T07:00:36Z",
+    "generated_at": "2026-08-29T07:02:07Z",
     "client_count": 23,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -451,7 +451,7 @@
         "amount_paid": 500.0,
         "balance_due": 500.0,
         "force_update": false,
-        "allowed_version": "1.0.163",
+        "allowed_version": "1.0.170",
         "blocked_reason": "",
         "notes": "Rashandeep Singh Malerkotla"
       },
@@ -501,5 +501,5 @@
       }
     }
   },
-  "signature": "bc2v3l+RsiAI0r6by5BitPv5VHkRmet9I04khmq//UDa4GbxpScH1mCJQD49Cnl1tb9ipdziqGUpA6ctxBelCg=="
+  "signature": "mbGZM1ahartXTrnbU5kYs3+f3hOVe++GbLtKMeo2+2Ou+hxR/6IYHFq01ZEkxNsRgK2joePaoUFpuyRfd4ZNCA=="
 }
