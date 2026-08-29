@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-28T14:19:09Z",
+    "generated_at": "2026-08-29T03:30:08Z",
     "client_count": 22,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -470,15 +470,15 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-08-28T23:59:59Z",
-        "amount_paid": 500.0,
-        "balance_due": 500.0,
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 4000.0,
+        "balance_due": 2000.0,
         "force_update": false,
-        "allowed_version": "1.0.164",
+        "allowed_version": "1.0.168",
         "blocked_reason": "",
         "notes": "Jagpal Singh Budh Singh Pacs ( Swastik)"
       }
     }
   },
-  "signature": "NaLUMRYIMZaz4fkTIuZvh1YatFAPRj0OtG+p2EtI8YveB7l/mg9xzlMIKadqeq/Gbb69XuzqFFJmMu5b59JsDQ=="
+  "signature": "oEExfLZxO2HyrpFtJUVSTyfngN3bQ8cZux0SWv4xxb9ywBiskcw5EFHTL+DT8NaWxgNpv8BfBR29JienRtUeAg=="
 }
