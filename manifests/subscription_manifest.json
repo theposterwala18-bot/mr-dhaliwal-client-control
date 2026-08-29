@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-08-29T03:30:08Z",
-    "client_count": 22,
+    "generated_at": "2026-08-29T05:19:17Z",
+    "client_count": 23,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -477,8 +477,29 @@
         "allowed_version": "1.0.168",
         "blocked_reason": "",
         "notes": "Jagpal Singh Budh Singh Pacs ( Swastik)"
+      },
+      "ee49487a1141a767f4e8ff8942702fc2e5300889b89884f3debe6ff5508f9943": {
+        "sr_no": "23",
+        "mobile_no": "9256151500",
+        "erp_lookup_key": "ee49487a1141a767f4e8ff8942702fc2e5300889b89884f3debe6ff5508f9943",
+        "client_name": "THE MANGWAL MPCASS LTD",
+        "device_hash": "bfe11af0a898b1649c663c6d2bb48789f7833de474dddb95c06d31450cc5f205",
+        "device_hashes": [
+          "bfe11af0a898b1649c663c6d2bb48789f7833de474dddb95c06d31450cc5f205"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-08-29T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.168",
+        "blocked_reason": "",
+        "notes": "28-08-2026 THE MANGWAL"
       }
     }
   },
-  "signature": "oEExfLZxO2HyrpFtJUVSTyfngN3bQ8cZux0SWv4xxb9ywBiskcw5EFHTL+DT8NaWxgNpv8BfBR29JienRtUeAg=="
+  "signature": "brS7FknAFMX2HxCr2aW/BLpow6ix0JdJODdMbwu3bt5fqmc7L+OkM63VtJC8oB3O60VHXCAMzkJmbW+C5CrsCQ=="
 }
