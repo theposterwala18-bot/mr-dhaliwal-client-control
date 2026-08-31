@@ -19,7 +19,7 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2027-03-31T23:59:59Z",
+        "expires_at": "2027-03-28T23:59:59Z",
         "amount_paid": 2000.0,
         "balance_due": 0.0,
         "force_update": false,
