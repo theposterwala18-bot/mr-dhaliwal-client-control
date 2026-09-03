@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-02T16:17:44Z",
+    "generated_at": "2026-09-03T06:00:12Z",
     "client_count": 23,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -313,8 +313,9 @@
         "mobile_no": "7888475939",
         "erp_lookup_key": "142c03c15a9acdd8bf6aeefe37f8de6f4fa695c8d6241f76eed6e69791ea2e4c",
         "client_name": "The Nangal Kalan mpcass Ltd",
-        "device_hash": "cbf6d535b9db145dc1367ecd9a0b4025640a6e3d879c0f2031bb62d6e2afc57c",
+        "device_hash": "3262f81b3ec2afc24a218cb2ac1b7cc426d0fc0c6393edfb72a937eaf2e99015",
         "device_hashes": [
+          "3262f81b3ec2afc24a218cb2ac1b7cc426d0fc0c6393edfb72a937eaf2e99015",
           "cbf6d535b9db145dc1367ecd9a0b4025640a6e3d879c0f2031bb62d6e2afc57c"
         ],
         "allowed_ip": "",
@@ -501,5 +502,5 @@
       }
     }
   },
-  "signature": "FEWU8XBS/mT4aBE9q00vETMGdBueweIfs08egYdh8olvsjQs32kN+wmh1dWijEKF/MH1PS/oBpBP32YSoxoCCw=="
+  "signature": "kjtQi+udEKXZkCgtrY4FcLMWbHR+M8bBTpLl0AydksS71I9mbUSgVPXkr+8yqF4l3OISrytTXALHZLZh2HbYBQ=="
 }
