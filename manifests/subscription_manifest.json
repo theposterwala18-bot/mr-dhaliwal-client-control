@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T14:52:16Z",
+    "generated_at": "2026-09-03T17:25:12Z",
     "client_count": 24,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -157,7 +157,7 @@
       },
       "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57": {
         "sr_no": "8",
-        "mobile_no": "9463355062",
+        "mobile_no": "9463355052",
         "erp_lookup_key": "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57",
         "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
         "device_hash": "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b",
@@ -169,12 +169,12 @@
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
         "expires_at": "2027-03-31T23:59:59Z",
-        "amount_paid": 1000.0,
-        "balance_due": 0.0,
+        "amount_paid": 10000.0,
+        "balance_due": 10000.0,
         "force_update": false,
         "allowed_version": "1.0.171",
         "blocked_reason": "",
-        "notes": "Full version layi pymnt kro"
+        "notes": "Mandeep Singh 03-09-2026 4500/-"
       },
       "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead": {
         "sr_no": "9",
@@ -448,8 +448,8 @@
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
         "expires_at": "2027-03-31T23:59:59Z",
-        "amount_paid": 500.0,
-        "balance_due": 500.0,
+        "amount_paid": 5000.0,
+        "balance_due": 5000.0,
         "force_update": false,
         "allowed_version": "1.0.171",
         "blocked_reason": "",
@@ -471,8 +471,8 @@
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
         "expires_at": "2027-03-31T23:59:59Z",
-        "amount_paid": 4000.0,
-        "balance_due": 2000.0,
+        "amount_paid": 6000.0,
+        "balance_due": 6000.0,
         "force_update": false,
         "allowed_version": "1.0.168",
         "blocked_reason": "",
@@ -506,7 +506,8 @@
         "client_name": "THE BARUNDI PACS",
         "device_hash": "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6",
         "device_hashes": [
-          "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6"
+          "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6",
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -522,5 +523,5 @@
       }
     }
   },
-  "signature": "ovLtcPY2ySCibxmVKswELigojqDD6WnVDVZCt+gIi84yGzzDVNqPLjdVupo52GFyQ4rvrYYr01agQADKHDHtDA=="
+  "signature": "d1hS4jUOYTrZplwiOfjlIupVUw22/9BS7KdAHOdl69Hhp5FFpWCUqqNEbcWzRfGiaVC79c2+CsNPnvBnr9EOAA=="
 }
