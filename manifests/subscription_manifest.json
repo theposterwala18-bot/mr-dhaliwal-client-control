@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T08:30:39Z",
+    "generated_at": "2026-09-03T08:52:21Z",
     "client_count": 24,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -168,7 +168,7 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2027-08-05T23:59:59Z",
+        "expires_at": "2026-08-05T23:59:59Z",
         "amount_paid": 1000.0,
         "balance_due": 0.0,
         "force_update": false,
@@ -503,7 +503,7 @@
         "sr_no": "24",
         "mobile_no": "81466 01365",
         "erp_lookup_key": "c7b5db22066dc83803f39ada624272712cd788ee1b6d62b3200f1a3019a6163e",
-        "client_name": "The Barundi Pacs",
+        "client_name": "THE BARUNDI PACS",
         "device_hash": "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6",
         "device_hashes": [
           "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6"
@@ -512,7 +512,7 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-09-05T23:59:59Z",
+        "expires_at": "2026-09-04T23:59:59Z",
         "amount_paid": 500.0,
         "balance_due": 500.0,
         "force_update": false,
@@ -522,5 +522,5 @@
       }
     }
   },
-  "signature": "0i1ka8gTC0SIkGs/xyTWzAh0P/MW41tMsK+WZDkQJDzOrLK3zN1hqvyGsHTYi/3C0ElLsD/vq9WJPerej4VHDw=="
+  "signature": "Ub7Cn3f8Xi2XxW+ceA32w3TQVwSmmZQaMfJl/1kkZOqS/Tiv9VlD6r0Hg8fsQBTPOc2Mq0bSaC9BnmICG3/xBw=="
 }
