@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T06:00:12Z",
+    "generated_at": "2026-09-03T06:59:48Z",
     "client_count": 23,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -162,20 +162,19 @@
         "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
         "device_hash": "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
         "device_hashes": [
-          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
-          "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b"
+          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416"
         ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-07-15T23:59:59Z",
+        "expires_at": "2027-09-05T23:59:59Z",
         "amount_paid": 1000.0,
         "balance_due": 0.0,
         "force_update": false,
-        "allowed_version": "1.0.69",
+        "allowed_version": "1.0.171",
         "blocked_reason": "",
-        "notes": ""
+        "notes": "Full version layi pymnt kro"
       },
       "da53f1a0aea2e1ab7255d75bb91cda16eb90c81c26dff2f465a9b5e1d2f51ead": {
         "sr_no": "9",
@@ -502,5 +501,5 @@
       }
     }
   },
-  "signature": "kjtQi+udEKXZkCgtrY4FcLMWbHR+M8bBTpLl0AydksS71I9mbUSgVPXkr+8yqF4l3OISrytTXALHZLZh2HbYBQ=="
+  "signature": "hP0Gnt/rO3lr+U8BDq34CFIpXOiZJeAqVshGbsMO+iwhNBqRJzGl+xBe7OCGk7n33HHuRWRrTN+makqnUSmuCw=="
 }
