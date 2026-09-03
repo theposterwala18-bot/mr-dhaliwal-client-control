@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T07:05:38Z",
-    "client_count": 23,
+    "generated_at": "2026-09-03T08:30:39Z",
+    "client_count": 24,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -498,8 +498,29 @@
         "allowed_version": "1.0.168",
         "blocked_reason": "",
         "notes": "28-08-2026 THE MANGWAL"
+      },
+      "c7b5db22066dc83803f39ada624272712cd788ee1b6d62b3200f1a3019a6163e": {
+        "sr_no": "24",
+        "mobile_no": "81466 01365",
+        "erp_lookup_key": "c7b5db22066dc83803f39ada624272712cd788ee1b6d62b3200f1a3019a6163e",
+        "client_name": "The Barundi Pacs",
+        "device_hash": "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6",
+        "device_hashes": [
+          "6acf6cf4da50f46f19775a85af312be47579f24874662eb7f4f47463219517c6"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-05T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.171",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "M6j1oqPBSmMrEf9iYtVMyhiosqae2AMWKCOyHY3t4Yecrzqt8BqlG3oZn13uUEvBY/0iCEjr+uHM0k+aM2yYDA=="
+  "signature": "0i1ka8gTC0SIkGs/xyTWzAh0P/MW41tMsK+WZDkQJDzOrLK3zN1hqvyGsHTYi/3C0ElLsD/vq9WJPerej4VHDw=="
 }
