@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T14:45:59Z",
+    "generated_at": "2026-09-03T14:47:49Z",
     "client_count": 24,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -168,7 +168,7 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-08-05T23:59:59Z",
+        "expires_at": "2026-09-05T23:59:59Z",
         "amount_paid": 1000.0,
         "balance_due": 0.0,
         "force_update": false,
@@ -522,5 +522,5 @@
       }
     }
   },
-  "signature": "L2OQqA13xdy/WXqYR10na1hfnyCNHzKLsxZ6/smDz5YQ9ehsl2hpLve0Tgck8SctXv90QLPE1+X3hM3pKdmAAQ=="
+  "signature": "1C93xwy8q8IPgULrz7vrs9Roxr1pkKIaVLJeVOKQYMf/fwyx3DqWyeC8TS6I+hm1YZT777rKgDZXhWVrtTCmAg=="
 }
