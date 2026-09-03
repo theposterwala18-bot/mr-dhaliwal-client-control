@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-03T14:41:46Z",
+    "generated_at": "2026-09-03T14:44:13Z",
     "client_count": 24,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -160,9 +160,8 @@
         "mobile_no": "9463355062",
         "erp_lookup_key": "daa096bb34f747d26e5ed9a3cbc813446a8be1bb29527faed1fe278b8147dc57",
         "client_name": "THE HAMIRGARH DHAIPAI MPCASS",
-        "device_hash": "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
+        "device_hash": "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b",
         "device_hashes": [
-          "933e6b786c26a290f4e9458e896fc71626bacbf78ffdeee23e076e6925b0d416",
           "9b838ca5ebc2ddc1f256e8bf999bb637284b55d7ec81c5f619ef8ff64637850b"
         ],
         "allowed_ip": "",
@@ -523,5 +522,5 @@
       }
     }
   },
-  "signature": "qpGBTCEyQhPJMZ3Q59qZeqJ+N5lS6Nh5cjKGGdgH8TNOTusCJg7YfjforXIam2BqfSUiRUKE/kFEKobaEdhVCg=="
+  "signature": "HlyG7AtyLMEaMMr3iZ2iP4yfOwbhkBqS6dkndaOv6Q6MhhR1LqAdqnSoQBVLM+8T7EjMkbefK+Hq6MxfZDhJBA=="
 }
