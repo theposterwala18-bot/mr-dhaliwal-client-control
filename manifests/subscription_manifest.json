@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-15T08:55:34Z",
+    "generated_at": "2026-09-15T15:49:03Z",
     "client_count": 27,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -568,7 +568,8 @@
         "client_name": "THE KHIALA KALAN PACS",
         "device_hash": "e4b135b841f0ac0b05d5a65b533cdeddb1134887f8157dce91927d8dab188c79",
         "device_hashes": [
-          "e4b135b841f0ac0b05d5a65b533cdeddb1134887f8157dce91927d8dab188c79"
+          "e4b135b841f0ac0b05d5a65b533cdeddb1134887f8157dce91927d8dab188c79",
+          "dbd444cbca5bb6bd712e218615607a2e8cbbb82e738d5470fb96a4187344fa1d"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -584,5 +585,5 @@
       }
     }
   },
-  "signature": "eh3mMECqpjKHA2Ei4g4oArVRsBuD6PqQLpegqg5lc8SU/FkhzMYhQ4bJkKeJLJ05rEofofXtC6V6ATfSslySBQ=="
+  "signature": "wW2kW7dfgwSAL2Yq7iRwCY6/UFYhhKqbGIWtc+VaRskll76i6TPJHQqa9D0M/uXx/IIAoDAq2i8JyABW1JcCCg=="
 }
