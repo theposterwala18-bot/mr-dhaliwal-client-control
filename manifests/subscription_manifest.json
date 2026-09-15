@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-13T06:48:07Z",
-    "client_count": 26,
+    "generated_at": "2026-09-15T08:55:34Z",
+    "client_count": 27,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -560,8 +560,29 @@
         "allowed_version": "1.0.182",
         "blocked_reason": "",
         "notes": "Gurwinder Singh ( Ludhiana )"
+      },
+      "f1fa5d985f23565cc9857ee32619f56157b30de3d536754a8c21db42936d1cc5": {
+        "sr_no": "27",
+        "mobile_no": "97800 03558",
+        "erp_lookup_key": "f1fa5d985f23565cc9857ee32619f56157b30de3d536754a8c21db42936d1cc5",
+        "client_name": "THE KHIALA KALAN PACS",
+        "device_hash": "e4b135b841f0ac0b05d5a65b533cdeddb1134887f8157dce91927d8dab188c79",
+        "device_hashes": [
+          "e4b135b841f0ac0b05d5a65b533cdeddb1134887f8157dce91927d8dab188c79"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-16T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.188",
+        "blocked_reason": "",
+        "notes": "Gaggi Khial"
       }
     }
   },
-  "signature": "n1OovrRh7HLdgn6MIprw6rjc1BCaXE3cWTu9/R24jdJtCh0Ofh0QsgkTrsaBSJ6JZJfYZyAj4XayJeX1F/GhBg=="
+  "signature": "eh3mMECqpjKHA2Ei4g4oArVRsBuD6PqQLpegqg5lc8SU/FkhzMYhQ4bJkKeJLJ05rEofofXtC6V6ATfSslySBQ=="
 }
