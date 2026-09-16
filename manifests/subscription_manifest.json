@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-15T15:49:03Z",
-    "client_count": 27,
+    "generated_at": "2026-09-16T11:54:04Z",
+    "client_count": 28,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -575,15 +575,36 @@
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-09-16T23:59:59Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 4000.0,
+        "balance_due": 4000.0,
+        "force_update": false,
+        "allowed_version": "1.0.188",
+        "blocked_reason": "",
+        "notes": "Gaggi Khial 16-9-2026"
+      },
+      "1dc037634676c0515975b496bdc274ce1bcd6df42f0b3880478cb3be176cdeec": {
+        "sr_no": "28",
+        "mobile_no": "9872798070",
+        "erp_lookup_key": "1dc037634676c0515975b496bdc274ce1bcd6df42f0b3880478cb3be176cdeec",
+        "client_name": "THE CHARIK MP CASS LTD",
+        "device_hash": "53349ec952b5ae4024d7ce66305404665385a6d79f9abef191ed55c81a08f30f",
+        "device_hashes": [
+          "53349ec952b5ae4024d7ce66305404665385a6d79f9abef191ed55c81a08f30f"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-17T23:59:59Z",
         "amount_paid": 500.0,
         "balance_due": 500.0,
         "force_update": false,
         "allowed_version": "1.0.188",
         "blocked_reason": "",
-        "notes": "Gaggi Khial"
+        "notes": ""
       }
     }
   },
-  "signature": "wW2kW7dfgwSAL2Yq7iRwCY6/UFYhhKqbGIWtc+VaRskll76i6TPJHQqa9D0M/uXx/IIAoDAq2i8JyABW1JcCCg=="
+  "signature": "SQ6o5gpC7tEGR+0p7SP+URwNIAKfgKuqVNNN1mfmk4AtpTA5ffc4iPddaoyQGweMpMYwQADJM4wQq71p2jWwBg=="
 }
