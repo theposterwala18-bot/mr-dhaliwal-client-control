@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-19T10:16:52Z",
+    "generated_at": "2026-09-24T08:45:33Z",
     "client_count": 29,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -526,17 +526,19 @@
         "mobile_no": "9463090857",
         "erp_lookup_key": "5a73929f7487d6d1b21726bab394480a3949b9e7dafcace4c0b91be046bbd11b",
         "client_name": "THE BADDI JHALLIAN PACS (RUPNAGAR)",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "58e8281f1381edbba0fbcfe17d07bebceb31f0f97b750c7a82532073ba84b8d0",
+        "device_hashes": [
+          "58e8281f1381edbba0fbcfe17d07bebceb31f0f97b750c7a82532073ba84b8d0"
+        ],
         "allowed_ip": "",
         "status": "demo",
         "plan_type": "demo",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-09-08T23:59:59Z",
+        "expires_at": "2026-09-25T23:59:59Z",
         "amount_paid": 500.0,
         "balance_due": 500.0,
         "force_update": false,
-        "allowed_version": "1.0.180",
+        "allowed_version": "1.0.193",
         "blocked_reason": "",
         "notes": ""
       },
@@ -608,7 +610,7 @@
         "sr_no": "29",
         "mobile_no": "9815098150",
         "erp_lookup_key": "fa29c5e276226d496665866a63d6eba832c0d929ced1bf85945460ac5bfd62ca",
-        "client_name": "The Phaphre Bhaike Pacs",
+        "client_name": "THE PHAPHRE BHAIKE MPCASS",
         "device_hash": "e7ae5696ce94a96c27277c046cf32df38e45897e31307372bf654a174133cfac",
         "device_hashes": [
           "e7ae5696ce94a96c27277c046cf32df38e45897e31307372bf654a174133cfac"
@@ -627,5 +629,5 @@
       }
     }
   },
-  "signature": "FO2+0ZGbIwKirhDaC0sPOK+Qw4iuIz7M2ULvSMcWYdoFQBxIXhPE9aTgNqIihyad84AVZKM++jgZu9CUtU97Cg=="
+  "signature": "2LAoxJBdJ9KYlrcqzGSbtWLtZ63L4jKdX8zg42RKWmYYsl/9aL52mQ9MpDNu/OaSToZKldJqSqAxtwtSs7STDw=="
 }
