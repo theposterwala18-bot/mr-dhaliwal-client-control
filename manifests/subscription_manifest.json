@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-24T08:45:33Z",
-    "client_count": 29,
+    "generated_at": "2026-09-25T05:13:03Z",
+    "client_count": 30,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -626,8 +626,29 @@
         "allowed_version": "1.0.188",
         "blocked_reason": "",
         "notes": ""
+      },
+      "e7a98298919f8b5d29f1a6bcdd9dab1b12d6ab94b7b95d685be5255e28d8b0d0": {
+        "sr_no": "30",
+        "mobile_no": "98153 72388",
+        "erp_lookup_key": "e7a98298919f8b5d29f1a6bcdd9dab1b12d6ab94b7b95d685be5255e28d8b0d0",
+        "client_name": "THE SASTEWALI DAKHLI RANGA SINGH WALA MPCASS LTD",
+        "device_hash": "d216463c34e4b8359a3fb12ca55ba3f4fe79c2c18de34e87be2fc180371add96",
+        "device_hashes": [
+          "d216463c34e4b8359a3fb12ca55ba3f4fe79c2c18de34e87be2fc180371add96"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-26T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.193",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "2LAoxJBdJ9KYlrcqzGSbtWLtZ63L4jKdX8zg42RKWmYYsl/9aL52mQ9MpDNu/OaSToZKldJqSqAxtwtSs7STDw=="
+  "signature": "JHJskx/BWef2LQ5h2xTSo3089BuLNz9U9jGT5gY8XeSHtqYGskLtjICYD6QLV0QmViZl1ILuHnm05ValBznDBQ=="
 }
