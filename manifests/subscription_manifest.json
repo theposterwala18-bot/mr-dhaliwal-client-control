@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-28T07:13:30Z",
+    "generated_at": "2026-09-28T09:21:39Z",
     "client_count": 32,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -674,8 +674,10 @@
         "mobile_no": "9463828649",
         "erp_lookup_key": "8cd0975d9ff385e5e04a8291bdb6cea295df812f95e5536a0f60f74f3cd987bc",
         "client_name": "The Gobindpura mpcass",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "dff1bd9abacfad0f1ebb81edfe01cb983f92121c432c5e8b03857d931327defd",
+        "device_hashes": [
+          "dff1bd9abacfad0f1ebb81edfe01cb983f92121c432c5e8b03857d931327defd"
+        ],
         "allowed_ip": "",
         "status": "demo",
         "plan_type": "demo",
@@ -690,5 +692,5 @@
       }
     }
   },
-  "signature": "BratmhrQZLh7baawCnxrZmvnU10KjcNOL7C+qGNPBPBvd/bhIIWwn34fBR/ovM3VMffXQSAl2+vrs5TKmMsaDA=="
+  "signature": "6Z01nA2QJCg8ZFiKYf0Oe/Nn4YP2fd4Pi8mELLioWKZKD6joaI3u+j9sxrfjwZQaCSYmUCfyOA1PkZ7tH86HDw=="
 }
