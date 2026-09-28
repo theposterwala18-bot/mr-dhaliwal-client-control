@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-28T09:21:39Z",
-    "client_count": 32,
+    "generated_at": "2026-09-28T13:54:06Z",
+    "client_count": 33,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -689,8 +689,29 @@
         "allowed_version": "1.0.202",
         "blocked_reason": "",
         "notes": ""
+      },
+      "be7c01871eab9aaccc855e71cf6c07e56d88d9fe2c0a4c4ca7d3d1b68d4a2a51": {
+        "sr_no": "33",
+        "mobile_no": "77174 76751",
+        "erp_lookup_key": "be7c01871eab9aaccc855e71cf6c07e56d88d9fe2c0a4c4ca7d3d1b68d4a2a51",
+        "client_name": "The DULLADI PACS",
+        "device_hash": "cf52719133d510ba949ffa13bd9a34231d6e8df39c763b249506378cc1440f4e",
+        "device_hashes": [
+          "cf52719133d510ba949ffa13bd9a34231d6e8df39c763b249506378cc1440f4e"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-29T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.202",
+        "blocked_reason": "",
+        "notes": "Gursant Patiala"
       }
     }
   },
-  "signature": "6Z01nA2QJCg8ZFiKYf0Oe/Nn4YP2fd4Pi8mELLioWKZKD6joaI3u+j9sxrfjwZQaCSYmUCfyOA1PkZ7tH86HDw=="
+  "signature": "d6ASE/Bq1bVXE/nrWfpkBOTmvfYPeiTGWvEXk32eBSWox6/Kykzy4e9I/gkN7r2IJ1mjvovM2ZW0MXho1cGTBw=="
 }
