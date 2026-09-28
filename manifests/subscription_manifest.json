@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-25T05:13:03Z",
-    "client_count": 30,
+    "generated_at": "2026-09-28T07:13:30Z",
+    "client_count": 32,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -647,8 +647,48 @@
         "allowed_version": "1.0.193",
         "blocked_reason": "",
         "notes": ""
+      },
+      "d30e1f2ce8f75415385aaaf44b1d402ac9800c41412b913dbe09d3b8480cbc3f": {
+        "sr_no": "31",
+        "mobile_no": "98147 22542",
+        "erp_lookup_key": "d30e1f2ce8f75415385aaaf44b1d402ac9800c41412b913dbe09d3b8480cbc3f",
+        "client_name": "THE TODERWAL PACS",
+        "device_hash": "442caecb3ffc39eb5c61adc900cb0910df44ca4d6d56b9c6b469e4056e42947f",
+        "device_hashes": [
+          "442caecb3ffc39eb5c61adc900cb0910df44ca4d6d56b9c6b469e4056e42947f"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-29T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.202",
+        "blocked_reason": "",
+        "notes": "Gursant Singfh ( Patiala )"
+      },
+      "8cd0975d9ff385e5e04a8291bdb6cea295df812f95e5536a0f60f74f3cd987bc": {
+        "sr_no": "32",
+        "mobile_no": "9463828649",
+        "erp_lookup_key": "8cd0975d9ff385e5e04a8291bdb6cea295df812f95e5536a0f60f74f3cd987bc",
+        "client_name": "The Gobindpura mpcass",
+        "device_hash": "",
+        "device_hashes": [],
+        "allowed_ip": "",
+        "status": "demo",
+        "plan_type": "demo",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-09-29T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.202",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "JHJskx/BWef2LQ5h2xTSo3089BuLNz9U9jGT5gY8XeSHtqYGskLtjICYD6QLV0QmViZl1ILuHnm05ValBznDBQ=="
+  "signature": "BratmhrQZLh7baawCnxrZmvnU10KjcNOL7C+qGNPBPBvd/bhIIWwn34fBR/ovM3VMffXQSAl2+vrs5TKmMsaDA=="
 }
