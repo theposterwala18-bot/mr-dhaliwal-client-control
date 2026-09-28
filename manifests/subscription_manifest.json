@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-28T13:54:06Z",
+    "generated_at": "2026-09-28T13:56:15Z",
     "client_count": 33,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -690,10 +690,10 @@
         "blocked_reason": "",
         "notes": ""
       },
-      "be7c01871eab9aaccc855e71cf6c07e56d88d9fe2c0a4c4ca7d3d1b68d4a2a51": {
+      "31a65708b36adcbca8465bbb315c2227b0cda4d53fb0e123adb69b89eb6f96f7": {
         "sr_no": "33",
         "mobile_no": "77174 76751",
-        "erp_lookup_key": "be7c01871eab9aaccc855e71cf6c07e56d88d9fe2c0a4c4ca7d3d1b68d4a2a51",
+        "erp_lookup_key": "31a65708b36adcbca8465bbb315c2227b0cda4d53fb0e123adb69b89eb6f96f7",
         "client_name": "The DULLADI PACS",
         "device_hash": "cf52719133d510ba949ffa13bd9a34231d6e8df39c763b249506378cc1440f4e",
         "device_hashes": [
@@ -713,5 +713,5 @@
       }
     }
   },
-  "signature": "d6ASE/Bq1bVXE/nrWfpkBOTmvfYPeiTGWvEXk32eBSWox6/Kykzy4e9I/gkN7r2IJ1mjvovM2ZW0MXho1cGTBw=="
+  "signature": "4caADQ0jgaL8Q00zaTom6yRBwuf7tT9WiCvvHITNfg50NYH4Fh72KHZNplFXViMxKcErd8cox3GfjvVv4OUUAw=="
 }
