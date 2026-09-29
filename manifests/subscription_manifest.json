@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-28T17:59:00Z",
+    "generated_at": "2026-09-29T11:54:46Z",
     "client_count": 33,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -653,15 +653,16 @@
         "mobile_no": "98147 22542",
         "erp_lookup_key": "d30e1f2ce8f75415385aaaf44b1d402ac9800c41412b913dbe09d3b8480cbc3f",
         "client_name": "THE TODERWAL PACS",
-        "device_hash": "442caecb3ffc39eb5c61adc900cb0910df44ca4d6d56b9c6b469e4056e42947f",
+        "device_hash": "cf52719133d510ba949ffa13bd9a34231d6e8df39c763b249506378cc1440f4e",
         "device_hashes": [
+          "cf52719133d510ba949ffa13bd9a34231d6e8df39c763b249506378cc1440f4e",
           "442caecb3ffc39eb5c61adc900cb0910df44ca4d6d56b9c6b469e4056e42947f"
         ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-09-29T23:59:59Z",
+        "expires_at": "2027-03-31T23:59:59Z",
         "amount_paid": 500.0,
         "balance_due": 0.0,
         "force_update": false,
@@ -713,5 +714,5 @@
       }
     }
   },
-  "signature": "comLvMJSUu4tCnzn3zgSuKUH4xwMSHrF/NDfyt63ESIXGH2WhLUHkkw3vVEL1FMup0tuDCHgmg0o/YUwLuyAAA=="
+  "signature": "IkmoP5kZwD3061jwBYXfXp7bf/esOtb0XcQDuX8b7IMitKqa4GNZcyoKFeiwmYddxqWH93JIL93NptNkjtOSAA=="
 }
