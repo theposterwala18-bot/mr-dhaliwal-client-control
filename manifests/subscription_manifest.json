@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-30T05:39:48Z",
+    "generated_at": "2026-09-30T06:04:11Z",
     "client_count": 33,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -72,12 +72,9 @@
         "mobile_no": "9417618038",
         "erp_lookup_key": "a3dd50b7990aa897efab0982e73d5e5e39ddbf331e9a51b8af53cdc845566bdd",
         "client_name": "THE HODLA KALAN MPCASS LTD",
-        "device_hash": "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05",
+        "device_hash": "9bcdc59546391b8d97c08f0dd155fa6ac4153e910e64f0a38dacc0f43b40ef00",
         "device_hashes": [
-          "e3d3b073a3c0eba5c49c5718dcd18103a8e17db9f8bb67cfd8351ba713a19a05",
-          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
-          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
-          "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb"
+          "9bcdc59546391b8d97c08f0dd155fa6ac4153e910e64f0a38dacc0f43b40ef00"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -714,5 +711,5 @@
       }
     }
   },
-  "signature": "zckInRku2vofhA8WQZq0bMkannToCCuFtOdm6Ia3JFZnNCT833+9u9Ex1VTChQUi7Z95kCrux++KqRiZ1LjKCA=="
+  "signature": "FTNd54UgQPPqH5rcqUbxOTMm5vf0JydwfeCiXYyemmjZdEx2q8cEhwX5Iw2/XlK+Nobr8K61mien1mdMxNJ8DA=="
 }
