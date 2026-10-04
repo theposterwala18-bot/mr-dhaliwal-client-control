@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-09-30T06:04:11Z",
-    "client_count": 33,
+    "generated_at": "2026-10-04T06:30:04Z",
+    "client_count": 34,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -622,7 +622,7 @@
         "force_update": false,
         "allowed_version": "1.0.188",
         "blocked_reason": "",
-        "notes": ""
+        "notes": "Mani Kott lalu"
       },
       "e7a98298919f8b5d29f1a6bcdd9dab1b12d6ab94b7b95d685be5255e28d8b0d0": {
         "sr_no": "30",
@@ -708,8 +708,29 @@
         "allowed_version": "1.0.202",
         "blocked_reason": "",
         "notes": "Gursant Patiala"
+      },
+      "6a62e0a38367abbd93221759b425c81f696691c86537026f06ac3b5f6f2ef8e2": {
+        "sr_no": "34",
+        "mobile_no": "6239890619",
+        "erp_lookup_key": "6a62e0a38367abbd93221759b425c81f696691c86537026f06ac3b5f6f2ef8e2",
+        "client_name": "THE KOTRA PCAS",
+        "device_hash": "7b6e25530347439495c4397504f728b0cb90317e24aea2665d9996c3e12d9358",
+        "device_hashes": [
+          "7b6e25530347439495c4397504f728b0cb90317e24aea2665d9996c3e12d9358"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 6000.0,
+        "balance_due": 6000.0,
+        "force_update": false,
+        "allowed_version": "1.0.214",
+        "blocked_reason": "",
+        "notes": "Sandeep Kotra"
       }
     }
   },
-  "signature": "FTNd54UgQPPqH5rcqUbxOTMm5vf0JydwfeCiXYyemmjZdEx2q8cEhwX5Iw2/XlK+Nobr8K61mien1mdMxNJ8DA=="
+  "signature": "OOUt6PDPlbtvDiFpWTinf+sVxW10tUQSMafAaZ+As1JXSf4aFb+GoGLANi/eG4f269XpTOjzZMwcGAYxFoiQAQ=="
 }
