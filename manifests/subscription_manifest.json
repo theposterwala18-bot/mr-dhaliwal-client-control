@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-04T06:30:04Z",
+    "generated_at": "2026-10-05T13:53:08Z",
     "client_count": 34,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -716,7 +716,10 @@
         "client_name": "THE KOTRA PCAS",
         "device_hash": "7b6e25530347439495c4397504f728b0cb90317e24aea2665d9996c3e12d9358",
         "device_hashes": [
-          "7b6e25530347439495c4397504f728b0cb90317e24aea2665d9996c3e12d9358"
+          "7b6e25530347439495c4397504f728b0cb90317e24aea2665d9996c3e12d9358",
+          "1d038c92fae61cbef79b5f65716630f102417c48d07594b4de1461e0bc2e9d35",
+          "6276d7aff0b32d609f3338c02badfd3fa9687001dd2fad295de393581b852990",
+          "1e5b4757d7b4be1fb33e68ef6a66a5861f31a9d400692da982791c89137bcbbb"
         ],
         "allowed_ip": "",
         "status": "paid",
@@ -732,5 +735,5 @@
       }
     }
   },
-  "signature": "OOUt6PDPlbtvDiFpWTinf+sVxW10tUQSMafAaZ+As1JXSf4aFb+GoGLANi/eG4f269XpTOjzZMwcGAYxFoiQAQ=="
+  "signature": "4LHDQZqENfFXvFttm5MWL0L7M+afvopbHwUWGG7/Ce1humXrSRaFTYXjJZwVa/2+iEIiSg5xgpVxgo/Bz7hyAg=="
 }
