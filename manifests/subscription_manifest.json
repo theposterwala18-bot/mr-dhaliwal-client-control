@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-05T13:53:08Z",
-    "client_count": 34,
+    "generated_at": "2026-10-06T11:46:26Z",
+    "client_count": 35,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -732,8 +732,29 @@
         "allowed_version": "1.0.214",
         "blocked_reason": "",
         "notes": "Sandeep Kotra"
+      },
+      "301c2f346f26987871c15ce0790f845cbce7072707066c7dc5f580c47a34d17f": {
+        "sr_no": "35",
+        "mobile_no": "9988032435",
+        "erp_lookup_key": "301c2f346f26987871c15ce0790f845cbce7072707066c7dc5f580c47a34d17f",
+        "client_name": "THE MAKHA CHAHLAN MPCASS",
+        "device_hash": "ac92996ad4619e3322163bd985af95d6229c037f6e4e938f78d695e9c2ff86b2",
+        "device_hashes": [
+          "ac92996ad4619e3322163bd985af95d6229c037f6e4e938f78d695e9c2ff86b2"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-10-07T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": "IQBAL MAKHA"
       }
     }
   },
-  "signature": "4LHDQZqENfFXvFttm5MWL0L7M+afvopbHwUWGG7/Ce1humXrSRaFTYXjJZwVa/2+iEIiSg5xgpVxgo/Bz7hyAg=="
+  "signature": "NcmUfTG6qA73dfTxzx5KzQBhgPfXaQD1nnanK6OW/D441gfjQ4ZdoUvHrkijmZXB3OZqBRCEAz8+7jF7GG7wDA=="
 }
