@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-06T11:46:26Z",
-    "client_count": 35,
+    "generated_at": "2026-10-06T12:54:48Z",
+    "client_count": 36,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -753,8 +753,27 @@
         "allowed_version": "1.0.225",
         "blocked_reason": "",
         "notes": "IQBAL MAKHA"
+      },
+      "7a86d6aa056ddd0ecb57fc3da6e1e99653f69e8b4dff5b1e29875c713c43136d": {
+        "sr_no": "36",
+        "mobile_no": "6239516165",
+        "erp_lookup_key": "7a86d6aa056ddd0ecb57fc3da6e1e99653f69e8b4dff5b1e29875c713c43136d",
+        "client_name": "The Bachhoana mp cass ltd",
+        "device_hash": "",
+        "device_hashes": [],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-10-07T23:59:59Z",
+        "amount_paid": 500.0,
+        "balance_due": 500.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": "Hans Raj Singh Mansa"
       }
     }
   },
-  "signature": "NcmUfTG6qA73dfTxzx5KzQBhgPfXaQD1nnanK6OW/D441gfjQ4ZdoUvHrkijmZXB3OZqBRCEAz8+7jF7GG7wDA=="
+  "signature": "/K7Gn/QQW3yTDw8OsfNyqjAWiERcXGWArWVGRBMKYkZWPfhn9clNNtU1bG058v5Vzb87Q16ox6naw4VfN3hxAQ=="
 }
