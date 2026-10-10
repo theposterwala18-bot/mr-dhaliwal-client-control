@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-08T14:26:23Z",
-    "client_count": 36,
+    "generated_at": "2026-10-10T05:22:35Z",
+    "client_count": 37,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -772,8 +772,29 @@
         "allowed_version": "1.0.225",
         "blocked_reason": "",
         "notes": "Hans Raj Singh Mansa"
+      },
+      "cc23b6149383450b30d6b3dd7c3549f695239cfd3f08055c30edb812fc71054b": {
+        "sr_no": "37",
+        "mobile_no": "97801 75479",
+        "erp_lookup_key": "cc23b6149383450b30d6b3dd7c3549f695239cfd3f08055c30edb812fc71054b",
+        "client_name": "THE SULHANI PACS",
+        "device_hash": "4b53b82894de953d797c3ed697a4bcba26323345ad70647a456d57afa36262df",
+        "device_hashes": [
+          "4b53b82894de953d797c3ed697a4bcba26323345ad70647a456d57afa36262df"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-10-11T23:59:59Z",
+        "amount_paid": 100.0,
+        "balance_due": 100.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "e4uetRurH3848YRrw/gVo6azGPqfWjciQZ9khqv08G20D/A+yj2JbtCbEKtM48MDad33yHC8kFRDR+FLkrI9DQ=="
+  "signature": "C8MfihszEoNvAHRaS3aYu5GXHmQc+dPyw7W6vPDxAYiFonOvw48meGrmKvDLwg94GnHsJJ3bswPtbMn4lcYgDg=="
 }
