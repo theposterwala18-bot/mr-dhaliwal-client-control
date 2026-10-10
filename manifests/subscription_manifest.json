@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-10T05:22:35Z",
-    "client_count": 37,
+    "generated_at": "2026-10-10T11:11:23Z",
+    "client_count": 38,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -793,8 +793,29 @@
         "allowed_version": "1.0.225",
         "blocked_reason": "",
         "notes": ""
+      },
+      "bbfbe81ff8fc28647217514b24517c4d447bf955e71f883df6f06d69ec02aff7": {
+        "sr_no": "38",
+        "mobile_no": "9815555810",
+        "erp_lookup_key": "bbfbe81ff8fc28647217514b24517c4d447bf955e71f883df6f06d69ec02aff7",
+        "client_name": "THE GURRADI PACS",
+        "device_hash": "7b35206b9dfa441ce901597d9c923c13f46becb03e243df00f173bdca2e15713",
+        "device_hashes": [
+          "7b35206b9dfa441ce901597d9c923c13f46becb03e243df00f173bdca2e15713"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2026-10-11T23:59:59Z",
+        "amount_paid": 100.0,
+        "balance_due": 100.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "C8MfihszEoNvAHRaS3aYu5GXHmQc+dPyw7W6vPDxAYiFonOvw48meGrmKvDLwg94GnHsJJ3bswPtbMn4lcYgDg=="
+  "signature": "bmh72KlhNSi864Xq58SdDu8th3TFoousxc8wtA+Es9A4234u3fXYjSccsFGWyi1pRqhahMq2nZXtuGeO2tLxCA=="
 }
