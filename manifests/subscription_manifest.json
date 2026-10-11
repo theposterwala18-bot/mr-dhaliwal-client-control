@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-10T11:11:23Z",
+    "generated_at": "2026-10-11T09:39:28Z",
     "client_count": 38,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -759,8 +759,11 @@
         "mobile_no": "6239516165",
         "erp_lookup_key": "7a86d6aa056ddd0ecb57fc3da6e1e99653f69e8b4dff5b1e29875c713c43136d",
         "client_name": "The Bachhoana mp cass ltd",
-        "device_hash": "",
-        "device_hashes": [],
+        "device_hash": "029a02e11f3ad52e415b574161c2fca2fdfd34de0bfe85185a50a9695c562262",
+        "device_hashes": [
+          "029a02e11f3ad52e415b574161c2fca2fdfd34de0bfe85185a50a9695c562262",
+          "ccbcdc9ba8929295727b9d2dbc839d12012fbe23d42f7d875e80a4944b5b1539"
+        ],
         "allowed_ip": "",
         "status": "paid",
         "plan_type": "paid",
@@ -817,5 +820,5 @@
       }
     }
   },
-  "signature": "bmh72KlhNSi864Xq58SdDu8th3TFoousxc8wtA+Es9A4234u3fXYjSccsFGWyi1pRqhahMq2nZXtuGeO2tLxCA=="
+  "signature": "MAqMTu+HedX5NDGaou7rCWFxSS8+SslOqVsMZZxJpF8cnD6+atdlhefO8h3cq/L+hdhb2Wh4DY8QifPaCMCxBw=="
 }
