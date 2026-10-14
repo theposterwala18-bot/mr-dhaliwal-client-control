@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-11T09:39:28Z",
-    "client_count": 38,
+    "generated_at": "2026-10-14T03:37:33Z",
+    "client_count": 39,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -817,8 +817,29 @@
         "allowed_version": "1.0.225",
         "blocked_reason": "",
         "notes": ""
+      },
+      "6ba097673af8ad110fe0c89579118497f180251ddda7f70bc610f9b0e824c72b": {
+        "sr_no": "39",
+        "mobile_no": "7000 21205",
+        "erp_lookup_key": "6ba097673af8ad110fe0c89579118497f180251ddda7f70bc610f9b0e824c72b",
+        "client_name": "ATLA KALAN PACS",
+        "device_hash": "9bcdc59546391b8d97c08f0dd155fa6ac4153e910e64f0a38dacc0f43b40ef00",
+        "device_hashes": [
+          "9bcdc59546391b8d97c08f0dd155fa6ac4153e910e64f0a38dacc0f43b40ef00"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 0.0,
+        "balance_due": 0.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": "Kulwant Atla Plz Pay"
       }
     }
   },
-  "signature": "MAqMTu+HedX5NDGaou7rCWFxSS8+SslOqVsMZZxJpF8cnD6+atdlhefO8h3cq/L+hdhb2Wh4DY8QifPaCMCxBw=="
+  "signature": "T1e7Ggl+JYnP5tUQSMFemjtp79Sn4tJG1HEZ/6QbnIzVSnmUFuaYdlEoPc2Ow+LWbCz+AJC3GGORnKAigDDgDw=="
 }
