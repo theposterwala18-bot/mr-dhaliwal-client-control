@@ -1,8 +1,8 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-15T05:57:27Z",
-    "client_count": 39,
+    "generated_at": "2026-10-25T09:26:03Z",
+    "client_count": 40,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
         "sr_no": "1",
@@ -838,8 +838,29 @@
         "allowed_version": "1.0.225",
         "blocked_reason": "",
         "notes": "Kulwant Atla Plz Pay"
+      },
+      "4ff05f8ab2c3568cd973c0aa50733887c0dc2498aa1da566a6763f3a3d0603fd": {
+        "sr_no": "40",
+        "mobile_no": "9463115355",
+        "erp_lookup_key": "4ff05f8ab2c3568cd973c0aa50733887c0dc2498aa1da566a6763f3a3d0603fd",
+        "client_name": "THE BIROKE KALAN",
+        "device_hash": "eac38c09a307c5e00c1a869db943fb466d8911a101d47b13890c2e400a29be55",
+        "device_hashes": [
+          "eac38c09a307c5e00c1a869db943fb466d8911a101d47b13890c2e400a29be55"
+        ],
+        "allowed_ip": "",
+        "status": "paid",
+        "plan_type": "paid",
+        "valid_from": "2026-04-01T00:00:00Z",
+        "expires_at": "2027-03-31T23:59:59Z",
+        "amount_paid": 6000.0,
+        "balance_due": 6000.0,
+        "force_update": false,
+        "allowed_version": "1.0.225",
+        "blocked_reason": "",
+        "notes": ""
       }
     }
   },
-  "signature": "vpvNl+0KgbORu8KX/Z5DQIEMx3un3Suvw30sy1i4KucM1gXu92rcOzcYSVfadAATjovuJzuCpLtK+U35dBMBDA=="
+  "signature": "GitFG5UQhMRfIfR1sKuxn06n8eSQb6HGJKqGgTjZAvjB175QrOLphosnVqg0NTLVq9O9i1NJP75FTdASRdJhBQ=="
 }
