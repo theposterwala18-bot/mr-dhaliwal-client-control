@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-10-30T02:08:50Z",
+    "generated_at": "2026-11-04T09:10:18Z",
     "client_count": 40,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -230,16 +230,16 @@
           "0ddb4a244d38c5afcf06a80824ecc39d81e673cb20cae3031c8adae90b18f4e1"
         ],
         "allowed_ip": "",
-        "status": "demo",
-        "plan_type": "demo",
+        "status": "paid",
+        "plan_type": "paid",
         "valid_from": "2026-04-01T00:00:00Z",
-        "expires_at": "2026-06-30T23:59:59Z",
+        "expires_at": "2026-11-06T23:59:59Z",
         "amount_paid": 0.0,
         "balance_due": 5000.0,
         "force_update": false,
         "allowed_version": "1.0.88",
         "blocked_reason": "",
-        "notes": ""
+        "notes": "Plz Pay Full paymnet"
       },
       "37d1da1b3b10ad941ad393a51e03df99b29522f55c4edc25607f640338b95658": {
         "sr_no": "12",
@@ -863,5 +863,5 @@
       }
     }
   },
-  "signature": "RUzc/Ygm2E1PxHM2gkAPr3EPDUpELd6yE4GFArDW0NGJqP8hLwLJxB4WVgUCFxccRJRFHelumRfaLtta5ZgSDw=="
+  "signature": "N5VR4HNFrWdAGAPXs4qyXVxPwYd9DxRxDG1L8tnezG9sSBewAjUkv98NBA+2aQkRlqU6IcHzK2jqEOrF/MzyAg=="
 }
