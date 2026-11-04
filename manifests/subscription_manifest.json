@@ -1,7 +1,7 @@
 {
   "payload": {
     "manifest_type": "subscription_manifest",
-    "generated_at": "2026-11-04T09:10:18Z",
+    "generated_at": "2026-11-04T09:11:12Z",
     "client_count": 40,
     "clients": {
       "9abc4b09abecb3b021679bfce2839f4f1cea2e1a7405e560b99826f4b70339b2": {
@@ -236,8 +236,8 @@
         "expires_at": "2026-11-06T23:59:59Z",
         "amount_paid": 0.0,
         "balance_due": 5000.0,
-        "force_update": false,
-        "allowed_version": "1.0.88",
+        "force_update": true,
+        "allowed_version": "1.0.227",
         "blocked_reason": "",
         "notes": "Plz Pay Full paymnet"
       },
@@ -863,5 +863,5 @@
       }
     }
   },
-  "signature": "N5VR4HNFrWdAGAPXs4qyXVxPwYd9DxRxDG1L8tnezG9sSBewAjUkv98NBA+2aQkRlqU6IcHzK2jqEOrF/MzyAg=="
+  "signature": "EVY+dPgHXI6KI+IJArjIHlfzuXuMBCKmiVZFNMbPeqk/1InPFOxSzg1+7pld5wtn/79ZhzdakACV1MjDnvz1BQ=="
 }
